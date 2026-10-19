@@ -1,0 +1,26 @@
+{
+  "criteria": {
+    "0": {
+      "trigger": "create_connected:overpowered_brake_0_builtin"
+    }
+  },
+  "requirements": [
+    [
+      "0"
+    ]
+  ],
+  "sends_telemetry_event": true,
+  "parent": "create:mechanical_mixer",
+  "display": {
+    "frame": "goal",
+    "hidden": true,
+    "icon": {
+      "id": "create_connected:brake"
+    },
+    "title": "Overpowered",
+    "description": "Keep a network running at speed with a powered brake attached\n§7(Hidden Advancement)"
+  },
+  "parents": [
+    "create:mechanical_mixer"
+  ]
+}

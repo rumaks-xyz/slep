@@ -1,0 +1,20 @@
+{
+    "values": [
+        {
+            "id": "#minecraft:replaceable",
+            "required": false
+        },
+        {
+            "id": "windswept:wild_berry_bush",
+            "required": false
+        },
+        {
+            "id": "autumnity:foul_berry_bush",
+            "required": false
+        }
+    ],
+    "remove": [
+        "minecraft:light",
+        "minecraft:structure_void"
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "values": [
+        {
+            "id": "#slep:stairs/mosaic",
+            "required": false
+        },
+        {
+            "id": "#slep:slabs/mosaic",
+            "required": false
+        },
+        {
+            "id": "#slep:stairs/thatch",
+            "required": false
+        },
+        {
+            "id": "#slep:slabs/thatch",
+            "required": false
+        },
+        {
+            "id": "#slep:bars",
+            "required": false
+        },
+        {
+            "id": "gardens_of_the_dead:whistlecane",
+            "required": false
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+[
+    {
+        "action": "remove",
+        "items": [
+            "wetland_whimsy:ancient_pot",
+            "wetland_whimsy:ancient_coin",
+            "wetland_whimsy:filth_spawn_egg"
+        ],
+        "patterns": [
+            "/wetland_whimsy:.*_brazier/",
+            "/wetland_whimsy:.*_incense/"
+        ]
+    }
+]

@@ -1,0 +1,12 @@
+{
+    "values": [
+        {
+            "id": "wetland_whimsy:aria_mushroom_block",
+            "required": false
+        },
+        {
+            "id": "wetland_whimsy:fellcap_mushroom_block",
+            "required": false
+        }
+    ]
+}

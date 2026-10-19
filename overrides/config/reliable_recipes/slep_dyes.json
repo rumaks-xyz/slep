@@ -1,0 +1,69 @@
+[
+    {
+        "action": "replace_output",
+        "id": [
+            "windswept:blue_dye_from_blue_rose",
+            "windswept:blue_dye_from_blue_rose_bush",
+            "upgrade_aquatic:cyan_dye_from_pickerelweed"
+        ],
+        "replacement": "dye_depot:slate_dye"
+    },
+    {
+        "action": "replace_output",
+        "id": [
+            "atmospheric:red_dye_from_firethorn"
+        ],
+        "replacement": "dye_depot:coral_dye"
+    },
+    {
+        "action": "replace_output",
+        "id": [
+            "caverns_and_chasms:yellow_dye_from_false_hope",
+            "enderscape:yellow_dye_from_celestial_growth"
+        ],
+        "replacement": "dye_depot:tan_dye"
+    },
+    {
+        "action": "replace_output",
+        "id": [
+            "caverns_and_chasms:green_dye_from_moschatel"
+        ],
+        "replacement": "dye_depot:forest_dye"
+    },
+    {
+        "action": "replace_output",
+        "id": [
+            "environmental:blue_dye_from_bluebell"
+        ],
+        "replacement": "dye_depot:navy_dye"
+    },
+    {
+        "action": "replace_output",
+        "id": [
+            "environmental:lime_dye_from_dianthus"
+        ],
+        "replacement": "dye_depot:verdant_dye"
+    },
+    {
+        "action": "replace_output",
+        "id": [
+            "atmospheric:cyan_dye_from_agave"
+        ],
+        "replacement": "dye_depot:teal_dye"
+    },
+    {
+        "action": "replace_output",
+        "id": [
+            "atmospheric:purple_dye_from_currant"
+        ],
+        "replacement": "dye_depot:indigo_dye"
+    },
+    {
+        "action": "replace_output",
+        "id": [
+            "caverns_and_chasms:cyan_dye_from_turquoise",
+            "enderscape:cyan_dye_from_bulb_flower"
+        ],
+        "replacement": "dye_depot:aqua_dye"
+    }
+]

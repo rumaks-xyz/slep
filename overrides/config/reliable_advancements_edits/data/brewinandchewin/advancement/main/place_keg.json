@@ -1,0 +1,33 @@
+{
+  "criteria": {
+    "placed_keg": {
+      "trigger": "minecraft:placed_block",
+      "conditions": {
+        "location": [
+          {
+            "block": "brewinandchewin:keg",
+            "condition": "minecraft:block_state_property"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "placed_keg"
+    ]
+  ],
+  "sends_telemetry_event": true,
+  "parent": "farmersdelight:main/root",
+  "display": {
+    "icon": {
+      "id": "brewinandchewin:keg"
+    },
+    "title": "Here Starts the Process",
+    "description": "Place a Keg",
+    "frame": "task"
+  },
+  "parents": [
+    "farmersdelight:main/root"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+    "values": [
+        {
+            "id": "farmersdelight:red_mushroom_colony",
+            "required": false
+        },
+        {
+            "id": "farmersdelight:brown_mushroom_colony",
+            "required": false
+        },
+        {
+            "id": "wetland_whimsy:aria_mushroom",
+            "required": false
+        }
+    ]
+}

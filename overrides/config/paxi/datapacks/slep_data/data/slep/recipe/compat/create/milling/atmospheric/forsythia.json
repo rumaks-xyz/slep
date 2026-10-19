@@ -1,0 +1,24 @@
+{
+    "type": "create:milling",
+    "ingredients": [
+        {
+            "item": "atmospheric:forsythia"
+        }
+    ],
+    "processingTime": 50,
+    "results": [
+        {
+            "count": 2,
+            "id": "minecraft:yellow_dye"
+        },
+        {
+            "chance": 0.1,
+            "count": 2,
+            "id": "dye_depot:amber_dye"
+        },
+        {
+            "chance": 0.1,
+            "id": "minecraft:yellow_dye"
+        }
+    ]
+}

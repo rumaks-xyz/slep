@@ -1,0 +1,10 @@
+[
+    {
+        "action": "remove_recipe",
+        "type": "create_dragons_plus:coloring"
+    },
+    {
+        "action": "remove_recipe",
+        "id": "create:crafting/appliances/chain_from_zinc"
+    }
+]

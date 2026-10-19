@@ -1,0 +1,34 @@
+{
+  "criteria": {
+    "0": {
+      "trigger": "minecraft:placed_block",
+      "conditions": {
+        "location": [
+          {
+            "block": "create_connected:brass_gearbox",
+            "condition": "minecraft:block_state_property"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "0"
+    ]
+  ],
+  "sends_telemetry_event": true,
+  "parent": "create:speed_controller",
+  "display": {
+    "announce_to_chat": false,
+    "icon": {
+      "id": "create_connected:brass_gearbox"
+    },
+    "title": "Serious Organization",
+    "description": "Place down a Brass Gearbox",
+    "frame": "task"
+  },
+  "parents": [
+    "create:speed_controller"
+  ]
+}

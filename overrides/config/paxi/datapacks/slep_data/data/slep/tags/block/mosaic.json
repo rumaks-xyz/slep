@@ -1,0 +1,13 @@
+{
+    "values": [
+        "minecraft:bamboo_mosaic",
+        {
+            "id": "mynethersdelight:powdery_mosaic",
+            "required": false
+        },
+        {
+            "id": "gardens_of_the_dead:whistlecane_mosaic",
+            "required": false
+        }
+    ]
+}

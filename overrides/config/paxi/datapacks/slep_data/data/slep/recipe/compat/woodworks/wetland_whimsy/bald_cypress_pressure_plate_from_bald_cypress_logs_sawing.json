@@ -1,0 +1,10 @@
+{
+    "type": "woodworks:sawmill",
+    "ingredient": {
+        "tag": "wetland_whimsy:bald_cypress_logs"
+    },
+    "result": {
+        "count": 2,
+        "id": "wetland_whimsy:bald_cypress_pressure_plate"
+    }
+}

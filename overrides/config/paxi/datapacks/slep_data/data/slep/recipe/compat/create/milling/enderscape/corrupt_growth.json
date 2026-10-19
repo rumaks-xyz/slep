@@ -1,0 +1,21 @@
+{
+    "type": "create:milling",
+    "ingredients": [
+        {
+            "item": "enderscape:corrupt_growth"
+        }
+    ],
+    "processingTime": 50,
+    "results": [
+        {
+            "id": "minecraft:purple_dye"
+        },
+        {
+            "id": "minecraft:magenta_dye"
+        },
+        {
+            "chance": 0.1,
+            "id": "minecraft:purple_dye"
+        }
+    ]
+}

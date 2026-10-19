@@ -1,0 +1,21 @@
+{
+    "type": "create:milling",
+    "ingredients": [
+        {
+            "item": "enderscape:celestial_growth"
+        }
+    ],
+    "processingTime": 50,
+    "results": [
+        {
+            "id": "dye_depot:tan_dye"
+        },
+        {
+            "id": "dye_depot:beige_dye"
+        },
+        {
+            "chance": 0.1,
+            "id": "dye_depot:tan_dye"
+        }
+    ]
+}

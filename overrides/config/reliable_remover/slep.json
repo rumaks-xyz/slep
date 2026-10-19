@@ -1,0 +1,77 @@
+[
+    {
+        "action": "remove",
+        "items": [
+            "windswept:bluebells",
+            "windswept:snowy_sprouts",
+            "environmental:waxed_pinecone",
+            "environmental:pinecone",
+            "environmental:cartwheel",
+            "createdieselgenerators:mold",
+            "createdieselgenerators:sheet_metal_panel",
+            "create_lnl:contraption_lift",
+            "caverns_and_chasms:copper_nugget",
+            "minecraft:bush",
+            "minecraft:firefly_bush",
+            "minecraft:short_dry_grass",
+            "minecraft:tall_dry_grass",
+            "minecraft:leaf_litter",
+            "minecraft:brown_egg",
+            "minecraft:blue_egg",
+            "upgrade_aquatic:elder_eye",
+            "create:copper_bars",
+            "everycomp:abnww/mynethersdelight/powdery_boards",
+            "everycomp:abnww/gardens_of_the_dead/whistlecane_boards",
+            "createlazytick:clock"
+        ],
+        "patterns": [
+            "/(windswept|dye_the_world):.*_pinecone_shingle(s|_slab|_stairs)/",
+            "/create_connected:music_disc_.*/",
+            "/createdieselgenerators:.*_cement(_bucket)?/",
+            "/createdieselgenerators:plant_oil(_bucket)?/",
+            "/caverns_and_chasms:golden.*_bucket/",
+            "/create:.*_toolbox/",
+            "/(caverns_and_chasms|dye_the_world):.*glass_(trap)?door/"
+        ]
+    },
+    {
+        "action": "remove",
+        "mod": [
+            "create_dragons_plus"
+        ]
+    },
+    {
+        "action": "remove",
+        "patterns": [
+            "/aeroworks:.*_wheel_module/"
+        ],
+        "not": {
+            "items": [
+                "aeroworks:copper_wheel_module"
+            ]
+        }
+    },
+    {
+        "action": "remove",
+        "mod": [
+            "integrated_mining"
+        ],
+        "not": {
+            "patterns": [
+                "/.*cupric.*/",
+                "/.*crushed.*/"
+            ]
+        }
+    },
+    {
+        "action": "remove",
+        "patterns": [
+            "/everycomp:.*/createdieselgenerators/chip.*/"
+        ],
+        "not": {
+            "patterns": [
+                "/everycomp:.*/createdieselgenerators/chip.*chest/"
+            ]
+        }
+    }
+]

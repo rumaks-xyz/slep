@@ -1,0 +1,17 @@
+{
+    "values": [
+        "minecraft:magma_block",
+        {
+            "id": "windswept:dry_mossy_cobblestone",
+            "required": false
+        },
+        {
+            "id": "windswept:arkose",
+            "required": false
+        },
+        {
+            "id": "caverns_and_chasms:magmatic_rhyolite",
+            "required": false
+        }
+    ]
+}

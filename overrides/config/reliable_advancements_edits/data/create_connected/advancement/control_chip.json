@@ -1,0 +1,32 @@
+{
+  "criteria": {
+    "0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "create_connected:control_chip"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "0"
+    ]
+  ],
+  "sends_telemetry_event": true,
+  "parent": "create:deployer",
+  "display": {
+    "icon": {
+      "id": "create_connected:control_chip"
+    },
+    "title": "Precise Fabrication",
+    "description": "Assemble a Control Chip",
+    "frame": "task"
+  },
+  "parents": [
+    "create:deployer"
+  ]
+}

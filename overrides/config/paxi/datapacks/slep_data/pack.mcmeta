@@ -1,0 +1,18 @@
+{
+    "pack": {
+        "pack_format": 48,
+        "description": "slep data."
+    },
+    "filter": {
+        "block": [
+            {
+                "namespace": "^wetland_whimsy$",
+                "path": "^loot_table/(brazier_loot|decorated_pot_loot|incense/.*|entities/filth)\\.json$"
+            },
+            {
+                "namespace": "^caverns_and_chasms$",
+                "path": "^remolders/advancement/adventure/trim_with_any_armor_pattern\\.json$"
+            }
+        ]
+    }
+}

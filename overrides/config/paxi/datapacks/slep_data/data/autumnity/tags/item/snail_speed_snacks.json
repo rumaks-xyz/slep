@@ -1,0 +1,32 @@
+{
+    "values": [
+        {
+            "id": "mynethersdelight:crimson_fungus_colony",
+            "required": false
+        },
+        {
+            "id": "mynethersdelight:warped_fungus_colony",
+            "required": false
+        },
+        {
+            "id": "gardens_of_the_dead:soulblight_fungus",
+            "required": false
+        },
+        {
+            "id": "enderscape:murublight_shelf",
+            "required": false
+        },
+        {
+            "id": "enderscape:murublight_chanterelle",
+            "required": false
+        },
+        {
+            "id": "enderscape:celestial_chanterelle",
+            "required": false
+        },
+        {
+            "id": "enderscape:blinklight",
+            "required": false
+        }
+    ]
+}

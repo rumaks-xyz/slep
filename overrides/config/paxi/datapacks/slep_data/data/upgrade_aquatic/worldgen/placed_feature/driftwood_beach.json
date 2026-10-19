@@ -1,0 +1,63 @@
+{
+    "feature": "upgrade_aquatic:driftwood",
+    "placement": [
+        {
+            "type": "minecraft:rarity_filter",
+            "chance": 5
+        },
+        {
+            "type": "minecraft:in_square"
+        },
+        {
+            "type": "minecraft:heightmap",
+            "heightmap": "WORLD_SURFACE_WG"
+        },
+        {
+            "type": "minecraft:biome"
+        },
+        {
+            "type": "minecraft:block_predicate_filter",
+            "predicate": {
+                "type": "minecraft:any_of",
+                "predicates": [
+                    {
+                        "type": "minecraft:matching_fluids",
+                        "offset": [
+                            6,
+                            -2,
+                            6
+                        ],
+                        "fluids": "minecraft:water"
+                    },
+                    {
+                        "type": "minecraft:matching_fluids",
+                        "offset": [
+                            6,
+                            -2,
+                            -6
+                        ],
+                        "fluids": "minecraft:water"
+                    },
+                    {
+                        "type": "minecraft:matching_fluids",
+                        "offset": [
+                            -6,
+                            -2,
+                            -6
+                        ],
+                        "fluids": "minecraft:water"
+                    },
+                    {
+                        "type": "minecraft:matching_fluids",
+                        "offset": [
+                            -6,
+                            -2,
+                            6
+                        ],
+                        "fluids": "minecraft:water"
+                    }
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "values": [],
+    "remove": [
+        "create:cardboard_helmet",
+        "create:cardboard_chestplate",
+        "create:cardboard_leggings",
+        "create:cardboard_boots"
+    ]
+}

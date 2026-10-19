@@ -1,0 +1,19 @@
+{
+    "type": "create:milling",
+    "ingredients": [
+        {
+            "item": "atmospheric:agave"
+        }
+    ],
+    "processingTime": 50,
+    "results": [
+        {
+            "count": 2,
+            "id": "dye_depot:teal_dye"
+        },
+        {
+            "chance": 0.1,
+            "id": "dye_depot:teal_dye"
+        }
+    ]
+}

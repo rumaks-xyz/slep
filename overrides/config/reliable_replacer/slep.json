@@ -1,0 +1,50 @@
+[
+    {
+        "inputs": [
+            "windswept:bluebells"
+        ],
+        "output": "environmental:bluebell"
+    },
+    {
+        "inputs": [
+            "windswept:snowy_sprouts"
+        ],
+        "output": "minecraft:snow"
+    },
+    {
+        "inputs": [
+            "environmental:pinecone"
+        ],
+        "output": "windswept:pinecone_block",
+        "structures": [
+            "environmental:log_cabin"
+        ]
+    },
+    {
+        "inputs": [
+            "environmental:pinecone",
+            "environmental:waxed_pinecone",
+            "environmental:cartwheel"
+        ],
+        "remove": true
+    },
+    {
+        "inputs": [
+            "environmental:cactus_bobble"
+        ],
+        "output": "minecraft:cactus_flower",
+        "probability": 0.25,
+        "retrogen": false
+    },
+    {
+        "inputs": [
+            "upgrade_aquatic:tall_pickerelweed"
+        ],
+        "state_properties": {
+            "waterlogged": "false"
+        },
+        "output_state_properties": {
+            "fake_waterlogged": "false"
+        }
+    }
+]

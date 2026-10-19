@@ -1,0 +1,8 @@
+{
+    "parent": "minecraft:block/fast_better_grass",
+    "textures": {
+        "bottom": "block/dirt",
+        "sidetop": "atmospheric:block/crustose_top"
+    }
+}
+

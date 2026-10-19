@@ -1,0 +1,48 @@
+[
+    {
+        "inputs": [
+            "windswept:sandy_sprouts"
+        ],
+        "output": "atmospheric:arid_sprouts",
+        "neighbors": {
+            "down": [
+                "atmospheric:arid_sand",
+                "atmospheric:red_arid_sand"
+            ]
+        }
+    },
+    {
+        "inputs": [
+            "atmospheric:arid_sprouts"
+        ],
+        "output": "windswept:sandy_sprouts",
+        "neighbors": {
+            "down": "minecraft:sand"
+        }
+    },
+    {
+        "inputs": [
+            "windswept:sandy_sprouts"
+        ],
+        "remove": true,
+        "not": {
+            "neighbors": {
+                "down": "minecraft:sand"
+            }
+        }
+    },
+    {
+        "inputs": [
+            "atmospheric:arid_sprouts"
+        ],
+        "remove": true,
+        "not": {
+            "neighbors": {
+                "down": [
+                    "atmospheric:arid_sand",
+                    "atmospheric:red_arid_sand"
+                ]
+            }
+        }
+    }
+]

@@ -1,0 +1,16 @@
+{
+    "values": [
+        {
+            "id": "#caverns_and_chasms:braziers",
+            "required": false
+        },
+        {
+            "id": "wetland_whimsy:lemonstone_brazier",
+            "required": false
+        },
+        {
+            "id": "wetland_whimsy:soul_brazier",
+            "required": false
+        }
+    ]
+}

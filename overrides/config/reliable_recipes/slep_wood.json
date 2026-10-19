@@ -1,0 +1,48 @@
+[
+    {
+        "action": "remove_recipe",
+        "id": "/everycomp:abnww/(atmospheric|autumnity|caverns_and_chasms|environmental|upgrade_aquatic|windswept)/.*_sawing/"
+    },
+    {
+        "action": "replace_input",
+        "target": "gardens_of_the_dead:stripped_soulblight_hyphae",
+        "replacement": "#gardens_of_the_dead:soulblight_stems",
+        "type": "woodworks:sawmill"
+    },
+    {
+        "action": "replace_input",
+        "target": "mynethersdelight:stripped_powdery_block",
+        "replacement": "#mynethersdelight:powdery_blocks",
+        "type": "woodworks:sawmill"
+    },
+    {
+        "action": "replace_input",
+        "target": "wetland_whimsy:stripped_bald_cypress_wood",
+        "replacement": "#wetland_whimsy:bald_cypress_logs",
+        "type": "woodworks:sawmill"
+    },
+    {
+        "action": "replace_input",
+        "target": "enderscape:stripped_veiled_wood",
+        "replacement": "#enderscape:veiled_logs",
+        "type": "woodworks:sawmill"
+    },
+    {
+        "action": "replace_input",
+        "target": "enderscape:stripped_celestial_hyphae",
+        "replacement": "#enderscape:celestial_stems",
+        "type": "woodworks:sawmill"
+    },
+    {
+        "action": "replace_input",
+        "target": "enderscape:stripped_murublight_hyphae",
+        "replacement": "#enderscape:murublight_stems",
+        "type": "woodworks:sawmill"
+    },
+    {
+        "action": "replace_input",
+        "target": "minecraft:stripped_pale_oak_wood",
+        "replacement": "#minecraft:pale_oak_logs",
+        "type": "woodworks:sawmill"
+    }
+]

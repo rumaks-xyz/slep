@@ -1,0 +1,19 @@
+{
+    "type": "create:milling",
+    "ingredients": [
+        {
+            "item": "caverns_and_chasms:moschatel"
+        }
+    ],
+    "processingTime": 50,
+    "results": [
+        {
+            "count": 2,
+            "id": "dye_depot:forest_dye"
+        },
+        {
+            "chance": 0.05,
+            "id": "minecraft:lime_dye"
+        }
+    ]
+}

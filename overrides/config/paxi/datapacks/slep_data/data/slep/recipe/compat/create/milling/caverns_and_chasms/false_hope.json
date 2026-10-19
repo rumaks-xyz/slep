@@ -1,0 +1,19 @@
+{
+    "type": "create:milling",
+    "ingredients": [
+        {
+            "item": "caverns_and_chasms:false_hope"
+        }
+    ],
+    "processingTime": 50,
+    "results": [
+        {
+            "count": 2,
+            "id": "dye_depot:tan_dye"
+        },
+        {
+            "chance": 0.25,
+            "id": "minecraft:white_dye"
+        }
+    ]
+}

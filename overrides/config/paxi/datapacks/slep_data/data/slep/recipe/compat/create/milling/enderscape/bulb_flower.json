@@ -1,0 +1,23 @@
+{
+    "type": "create:milling",
+    "ingredients": [
+        {
+            "item": "enderscape:bulb_flower"
+        }
+    ],
+    "processingTime": 50,
+    "results": [
+        {
+            "count": 2,
+            "id": "dye_depot:aqua_dye"
+        },
+        {
+            "chance": 0.05,
+            "id": "dye_depot:beige_dye"
+        },
+        {
+            "chance": 0.05,
+            "id": "dye_depot:tan_dye"
+        }
+    ]
+}

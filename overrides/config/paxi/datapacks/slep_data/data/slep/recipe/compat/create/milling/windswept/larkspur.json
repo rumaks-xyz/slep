@@ -1,0 +1,19 @@
+{
+    "type": "create:milling",
+    "ingredients": [
+        {
+            "item": "windswept:larkspur"
+        }
+    ],
+    "processingTime": 50,
+    "results": [
+        {
+            "count": 2,
+            "id": "dye_depot:aqua_dye"
+        },
+        {
+            "chance": 0.05,
+            "id": "minecraft:white_dye"
+        }
+    ]
+}

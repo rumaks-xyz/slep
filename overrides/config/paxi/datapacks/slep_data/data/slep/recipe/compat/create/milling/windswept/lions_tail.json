@@ -1,0 +1,23 @@
+{
+    "type": "create:milling",
+    "ingredients": [
+        {
+            "item": "windswept:lions_tail"
+        }
+    ],
+    "processingTime": 50,
+    "results": [
+        {
+            "count": 3,
+            "id": "dye_depot:ginger_dye"
+        },
+        {
+            "chance": 0.25,
+            "id": "minecraft:orange_dye"
+        },
+        {
+            "chance": 0.25,
+            "id": "dye_depot:ginger_dye"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "values": [
+        {
+            "id": "environmental:grass_thatch_slab",
+            "required": false
+        },
+        {
+            "id": "environmental:cattail_thatch_slab",
+            "required": false
+        },
+        {
+            "id": "environmental:duckweed_thatch_slab",
+            "required": false
+        },
+        {
+            "id": "upgrade_aquatic:beachgrass_thatch_slab",
+            "required": false
+        },
+        {
+            "id": "windswept:lavender_thatch_slab",
+            "required": false
+        }
+    ]
+}

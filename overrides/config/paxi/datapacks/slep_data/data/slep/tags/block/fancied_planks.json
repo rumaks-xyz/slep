@@ -1,0 +1,152 @@
+{
+    "values": [
+        {
+            "id": "curiosities:fancied_acacia_planks",
+            "required": false
+        },
+        {
+            "id": "curiosities:fancied_aspen_planks",
+            "required": false
+        },
+        {
+            "id": "curiosities:fancied_bamboo_planks",
+            "required": false
+        },
+        {
+            "id": "curiosities:fancied_birch_planks",
+            "required": false
+        },
+        {
+            "id": "curiosities:fancied_cherry_planks",
+            "required": false
+        },
+        {
+            "id": "curiosities:fancied_dark_oak_planks",
+            "required": false
+        },
+        {
+            "id": "curiosities:fancied_driftwood_planks",
+            "required": false
+        },
+        {
+            "id": "curiosities:fancied_grimwood_planks",
+            "required": false
+        },
+        {
+            "id": "curiosities:fancied_jungle_planks",
+            "required": false
+        },
+        {
+            "id": "curiosities:fancied_kousa_planks",
+            "required": false
+        },
+        {
+            "id": "curiosities:fancied_laurel_planks",
+            "required": false
+        },
+        {
+            "id": "curiosities:fancied_mangrove_planks",
+            "required": false
+        },
+        {
+            "id": "curiosities:fancied_maple_planks",
+            "required": false
+        },
+        {
+            "id": "curiosities:fancied_morado_planks",
+            "required": false
+        },
+        {
+            "id": "curiosities:fancied_oak_planks",
+            "required": false
+        },
+        {
+            "id": "curiosities:fancied_pine_planks",
+            "required": false
+        },
+        {
+            "id": "curiosities:fancied_plum_planks",
+            "required": false
+        },
+        {
+            "id": "curiosities:fancied_river_planks",
+            "required": false
+        },
+        {
+            "id": "curiosities:fancied_rosewood_planks",
+            "required": false
+        },
+        {
+            "id": "curiosities:fancied_spruce_planks",
+            "required": false
+        },
+        {
+            "id": "curiosities:fancied_willow_planks",
+            "required": false
+        },
+        {
+            "id": "curiosities:fancied_wisteria_planks",
+            "required": false
+        },
+        {
+            "id": "curiosities:fancied_yucca_planks",
+            "required": false
+        },
+        {
+            "id": "curiosities:fancied_crimson_planks",
+            "required": false
+        },
+        {
+            "id": "curiosities:fancied_warped_planks",
+            "required": false
+        },
+        {
+            "id": "curiosities:fancied_powdery_planks",
+            "required": false
+        },
+        {
+            "id": "curiosities:fancied_soulblight_planks",
+            "required": false
+        },
+        {
+            "id": "curiosities:fancied_whistlecane_planks",
+            "required": false
+        },
+        {
+            "id": "everycomp:cur/caverns_and_chasms/fancied_azalea_planks",
+            "required": false
+        },
+        {
+            "id": "everycomp:cur/minecraft/fancied_pale_oak_planks",
+            "required": false
+        },
+        {
+            "id": "everycomp:cur/wetland_whimsy/fancied_bald_cypress_planks",
+            "required": false
+        },
+        {
+            "id": "everycomp:cur/windswept/fancied_holly_planks",
+            "required": false
+        },
+        {
+            "id": "everycomp:cur/windswept/fancied_chestnut_planks",
+            "required": false
+        },
+        {
+            "id": "everycomp:cur/windswept/fancied_pine_planks",
+            "required": false
+        },
+        {
+            "id": "everycomp:cur/enderscape/fancied_murublight_planks",
+            "required": false
+        },
+        {
+            "id": "everycomp:cur/enderscape/fancied_celestial_planks",
+            "required": false
+        },
+        {
+            "id": "everycomp:cur/enderscape/fancied_veiled_planks",
+            "required": false
+        }
+    ]
+}
