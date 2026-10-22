@@ -41,7 +41,9 @@
             "upgrade_aquatic:tall_pickerelweed"
         ],
         "state_properties": {
-            "waterlogged": "false"
+            "half": "upper",
+            "waterlogged": "false",
+            "fake_waterlogged": "true"
         },
         "output_state_properties": {
             "fake_waterlogged": "false"

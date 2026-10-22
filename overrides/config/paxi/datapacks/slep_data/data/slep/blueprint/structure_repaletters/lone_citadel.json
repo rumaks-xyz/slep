@@ -1,0 +1,127 @@
+{
+  "repaletter": [
+    {
+      "type": "blueprint:simple",
+      "replaces_block": "minecraft:dark_oak_planks",
+      "replaces_with": "windswept:holly_planks"
+    },
+    {
+      "type": "blueprint:simple",
+      "replaces_block": "minecraft:dark_oak_stairs",
+      "replaces_with": "windswept:holly_stairs"
+    },
+    {
+      "type": "blueprint:simple",
+      "replaces_block": "minecraft:dark_oak_slab",
+      "replaces_with": "windswept:holly_slab"
+    },
+    {
+      "type": "blueprint:simple",
+      "replaces_block": "minecraft:dark_oak_log",
+      "replaces_with": "windswept:holly_log"
+    },
+    {
+      "type": "blueprint:simple",
+      "replaces_block": "minecraft:dark_oak_wood",
+      "replaces_with": "windswept:holly_wood"
+    },
+    {
+      "type": "blueprint:simple",
+      "replaces_block": "minecraft:stripped_dark_oak_log",
+      "replaces_with": "windswept:stripped_holly_log"
+    },
+    {
+      "type": "blueprint:simple",
+      "replaces_block": "minecraft:stripped_dark_oak_wood",
+      "replaces_with": "windswept:stripped_holly_wood"
+    },
+    {
+      "type": "blueprint:simple",
+      "replaces_block": "minecraft:dark_oak_fence",
+      "replaces_with": "windswept:holly_fence"
+    },
+    {
+      "type": "blueprint:simple",
+      "replaces_block": "minecraft:dark_oak_fence_gate",
+      "replaces_with": "windswept:holly_fence_gate"
+    },
+    {
+      "type": "blueprint:simple",
+      "replaces_block": "minecraft:dark_oak_door",
+      "replaces_with": "windswept:holly_door"
+    },
+    {
+      "type": "blueprint:simple",
+      "replaces_block": "minecraft:polished_tuff",
+      "replaces_with": "caverns_and_chasms:polished_tuff"
+    },
+    {
+      "type": "blueprint:simple",
+      "replaces_block": "minecraft:polished_tuff_stairs",
+      "replaces_with": "caverns_and_chasms:polished_tuff_stairs"
+    },
+    {
+      "type": "blueprint:simple",
+      "replaces_block": "minecraft:polished_tuff_slab",
+      "replaces_with": "caverns_and_chasms:polished_tuff_slab"
+    },
+    {
+      "type": "blueprint:simple",
+      "replaces_block": "minecraft:polished_tuff_wall",
+      "replaces_with": "caverns_and_chasms:polished_tuff_wall"
+    },
+    {
+      "type": "blueprint:simple",
+      "replaces_block": "minecraft:tuff_bricks",
+      "replaces_with": "caverns_and_chasms:tuff_bricks"
+    },
+    {
+      "type": "blueprint:simple",
+      "replaces_block": "minecraft:tuff_brick_stairs",
+      "replaces_with": "caverns_and_chasms:tuff_brick_stairs"
+    },
+    {
+      "type": "blueprint:simple",
+      "replaces_block": "minecraft:tuff_brick_slab",
+      "replaces_with": "caverns_and_chasms:tuff_brick_slab"
+    },
+    {
+      "type": "blueprint:simple",
+      "replaces_block": "minecraft:tuff_brick_wall",
+      "replaces_with": "caverns_and_chasms:tuff_brick_wall"
+    },
+    {
+      "type": "blueprint:simple",
+      "replaces_block": "minecraft:blue_wool",
+      "replaces_with": "dye_depot:slate_wool"
+    },
+    {
+      "type": "blueprint:simple",
+      "replaces_block": "minecraft:blue_carpet",
+      "replaces_with": "dye_depot:slate_carpet"
+    },
+    {
+      "type": "blueprint:simple",
+      "replaces_block": "minecraft:blue_bed",
+      "replaces_with": "dye_depot:slate_bed"
+    },
+    {
+      "type": "blueprint:simple",
+      "replaces_block": "minecraft:blue_stained_glass",
+      "replaces_with": "dye_depot:slate_stained_glass"
+    },
+    {
+      "type": "blueprint:simple",
+      "replaces_block": "minecraft:blue_stained_glass_pane",
+      "replaces_with": "dye_depot:slate_stained_glass_pane"
+    },
+    {
+      "type": "blueprint:simple",
+      "replaces_block": "minecraft:sweet_berry_bush",
+      "replaces_with": "windswept:wild_berry_bush"
+    }
+  ],
+  "structures": [
+    "nova_structures:lone_citadel"
+  ]
+}

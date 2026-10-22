@@ -26,7 +26,8 @@
     {
         "action": "replace_output",
         "id": [
-            "caverns_and_chasms:green_dye_from_moschatel"
+            "caverns_and_chasms:green_dye_from_moschatel",
+            "rusticdelight:green_dye_from_bell_pepper_green"
         ],
         "replacement": "dye_depot:forest_dye"
     },
@@ -65,5 +66,12 @@
             "enderscape:cyan_dye_from_bulb_flower"
         ],
         "replacement": "dye_depot:aqua_dye"
+    },
+    {
+        "action": "remove_recipe",
+        "id": [
+            "create:milling/compat/environmental/bluebell",
+            "create:milling/compat/atmospheric/firethorn"
+        ]
     }
 ]

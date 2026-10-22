@@ -1,0 +1,235 @@
+{
+  "repaletter": [
+    {
+      "type": "blueprint:simple",
+      "replaces_block": "minecraft:oak_planks",
+      "replaces_with": "wetland_whimsy:bald_cypress_planks"
+    },
+    {
+      "type": "blueprint:simple",
+      "replaces_block": "minecraft:oak_stairs",
+      "replaces_with": "wetland_whimsy:bald_cypress_stairs"
+    },
+    {
+      "type": "blueprint:simple",
+      "replaces_block": "minecraft:oak_slab",
+      "replaces_with": "wetland_whimsy:bald_cypress_slab"
+    },
+    {
+      "type": "blueprint:simple",
+      "replaces_block": "minecraft:oak_log",
+      "replaces_with": "wetland_whimsy:bald_cypress_log"
+    },
+    {
+      "type": "blueprint:simple",
+      "replaces_block": "minecraft:stripped_oak_log",
+      "replaces_with": "wetland_whimsy:stripped_bald_cypress_log"
+    },
+    {
+      "type": "blueprint:simple",
+      "replaces_block": "minecraft:oak_fence",
+      "replaces_with": "wetland_whimsy:bald_cypress_fence"
+    },
+    {
+      "type": "blueprint:simple",
+      "replaces_block": "minecraft:oak_fence_gate",
+      "replaces_with": "wetland_whimsy:bald_cypress_fence_gate"
+    },
+    {
+      "type": "blueprint:simple",
+      "replaces_block": "minecraft:oak_door",
+      "replaces_with": "wetland_whimsy:bald_cypress_door"
+    },
+    {
+      "type": "blueprint:simple",
+      "replaces_block": "minecraft:spruce_planks",
+      "replaces_with": "minecraft:mangrove_planks"
+    },
+    {
+      "type": "blueprint:simple",
+      "replaces_block": "minecraft:spruce_stairs",
+      "replaces_with": "minecraft:mangrove_stairs"
+    },
+    {
+      "type": "blueprint:simple",
+      "replaces_block": "minecraft:spruce_slab",
+      "replaces_with": "minecraft:mangrove_slab"
+    },
+    {
+      "type": "blueprint:simple",
+      "replaces_block": "minecraft:spruce_log",
+      "replaces_with": "minecraft:mangrove_log"
+    },
+    {
+      "type": "blueprint:simple",
+      "replaces_block": "minecraft:stripped_spruce_log",
+      "replaces_with": "minecraft:stripped_mangrove_log"
+    },
+    {
+      "type": "blueprint:simple",
+      "replaces_block": "minecraft:spruce_fence",
+      "replaces_with": "minecraft:mangrove_fence"
+    },
+    {
+      "type": "blueprint:simple",
+      "replaces_block": "minecraft:spruce_fence_gate",
+      "replaces_with": "minecraft:mangrove_fence_gate"
+    },
+    {
+      "type": "blueprint:simple",
+      "replaces_block": "minecraft:spruce_door",
+      "replaces_with": "minecraft:mangrove_door"
+    },
+    {
+      "type": "blueprint:simple",
+      "replaces_block": "minecraft:spruce_trapdoor",
+      "replaces_with": "minecraft:mangrove_trapdoor"
+    },
+    {
+      "type": "blueprint:simple",
+      "replaces_block": "minecraft:cobblestone",
+      "replaces_with": "wetland_whimsy:lemonstone"
+    },
+    {
+      "type": "blueprint:simple",
+      "replaces_block": "minecraft:mossy_cobblestone",
+      "replaces_with": "wetland_whimsy:polished_lemonstone"
+    },
+    {
+      "type": "blueprint:simple",
+      "replaces_block": "minecraft:cobblestone_stairs",
+      "replaces_with": "wetland_whimsy:lemonstone_stairs"
+    },
+    {
+      "type": "blueprint:simple",
+      "replaces_block": "minecraft:mossy_cobblestone_stairs",
+      "replaces_with": "wetland_whimsy:polished_lemonstone_stairs"
+    },
+    {
+      "type": "blueprint:simple",
+      "replaces_block": "minecraft:cobblestone_slab",
+      "replaces_with": "wetland_whimsy:lemonstone_slab"
+    },
+    {
+      "type": "blueprint:simple",
+      "replaces_block": "minecraft:mossy_cobblestone_slab",
+      "replaces_with": "wetland_whimsy:polished_lemonstone_slab"
+    },
+    {
+      "type": "blueprint:simple",
+      "replaces_block": "minecraft:cobblestone_wall",
+      "replaces_with": "wetland_whimsy:lemonstone_wall"
+    },
+    {
+      "type": "blueprint:simple",
+      "replaces_block": "minecraft:mossy_cobblestone_wall",
+      "replaces_with": "wetland_whimsy:polished_lemonstone_wall"
+    },
+    {
+      "type": "blueprint:simple",
+      "replaces_block": "minecraft:stone_bricks",
+      "replaces_with": "wetland_whimsy:lemonstone_bricks"
+    },
+    {
+      "type": "blueprint:simple",
+      "replaces_block": "minecraft:mossy_stone_bricks",
+      "replaces_with": "wetland_whimsy:lemonstone"
+    },
+    {
+      "type": "blueprint:simple",
+      "replaces_block": "minecraft:cracked_stone_bricks",
+      "replaces_with": "wetland_whimsy:polished_lemonstone"
+    },
+    {
+      "type": "blueprint:simple",
+      "replaces_block": "minecraft:stone_brick_stairs",
+      "replaces_with": "wetland_whimsy:lemonstone_brick_stairs"
+    },
+    {
+      "type": "blueprint:simple",
+      "replaces_block": "minecraft:mossy_stone_brick_stairs",
+      "replaces_with": "wetland_whimsy:lemonstone_stairs"
+    },
+    {
+      "type": "blueprint:simple",
+      "replaces_block": "minecraft:stone_brick_slab",
+      "replaces_with": "wetland_whimsy:lemonstone_brick_slab"
+    },
+    {
+      "type": "blueprint:simple",
+      "replaces_block": "minecraft:mossy_stone_brick_slab",
+      "replaces_with": "wetland_whimsy:lemonstone_slab"
+    },
+    {
+      "type": "blueprint:simple",
+      "replaces_block": "minecraft:stone_brick_wall",
+      "replaces_with": "wetland_whimsy:lemonstone_brick_wall"
+    },
+    {
+      "type": "blueprint:simple",
+      "replaces_block": "minecraft:mossy_stone_brick_wall",
+      "replaces_with": "wetland_whimsy:lemonstone_wall"
+    },
+    {
+      "type": "blueprint:simple",
+      "replaces_block": "minecraft:polished_andesite",
+      "replaces_with": "wetland_whimsy:polished_lemonstone"
+    },
+    {
+      "type": "blueprint:simple",
+      "replaces_block": "minecraft:polished_andesite_stairs",
+      "replaces_with": "wetland_whimsy:polished_lemonstone_stairs"
+    },
+    {
+      "type": "blueprint:simple",
+      "replaces_block": "minecraft:polished_andesite_slab",
+      "replaces_with": "wetland_whimsy:polished_lemonstone_slab"
+    },
+    {
+      "type": "blueprint:simple",
+      "replaces_block": "minecraft:smooth_stone_slab",
+      "replaces_with": "wetland_whimsy:polished_lemonstone_slab"
+    },
+    {
+      "type": "blueprint:simple",
+      "replaces_block": "minecraft:chiseled_stone_bricks",
+      "replaces_with": "wetland_whimsy:lemonstone_pillar"
+    },
+    {
+      "type": "blueprint:simple",
+      "replaces_block": "minecraft:iron_bars",
+      "replaces_with": "caverns_and_chasms:tin_bars"
+    },
+    {
+      "type": "blueprint:simple",
+      "replaces_block": "minecraft:dirt_path",
+      "replaces_with": "environmental:dirt_path"
+    },
+    {
+      "type": "blueprint:simple",
+      "replaces_block": "minecraft:cyan_bed",
+      "replaces_with": "dye_depot:teal_bed"
+    },
+    {
+      "type": "blueprint:simple",
+      "replaces_block": "minecraft:purple_bed",
+      "replaces_with": "dye_depot:indigo_bed"
+    },
+    {
+      "type": "blueprint:simple",
+      "replaces_block": "minecraft:cyan_candle",
+      "replaces_with": "dye_depot:teal_candle"
+    },
+    {
+      "type": "blueprint:simple",
+      "replaces_block": "minecraft:light_blue_carpet",
+      "replaces_with": "dye_depot:teal_carpet"
+    }
+  ],
+  "structures": [
+    "nova_structures:village_swamp",
+    "nova_structures:tavern_swamp",
+    "nova_structures:witch_villa",
+    "nova_structures:toxic_lair"
+  ]
+}

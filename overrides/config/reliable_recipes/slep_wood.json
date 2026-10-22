@@ -44,5 +44,11 @@
         "target": "minecraft:stripped_pale_oak_wood",
         "replacement": "#minecraft:pale_oak_logs",
         "type": "woodworks:sawmill"
+    },
+    {
+        "action": "replace_input",
+        "target": "minecraft:stripped_poplar_wood",
+        "replacement": "#minecraft:poplar_logs",
+        "type": "woodworks:sawmill"
     }
 ]

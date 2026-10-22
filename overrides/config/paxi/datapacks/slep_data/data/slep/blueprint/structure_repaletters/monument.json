@@ -1,0 +1,13 @@
+{
+  "repaletter": [
+    {
+      "type": "blueprint:simple",
+      "replaces_block": "minecraft:chain",
+      "replaces_with": "caverns_and_chasms:oxidized_copper_chain"
+    }
+  ],
+  "structures": [
+    "minecraft:monument",
+    "nova_structures:trident_trial_monument"
+  ]
+}

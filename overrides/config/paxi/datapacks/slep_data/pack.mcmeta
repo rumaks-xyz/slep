@@ -10,8 +10,52 @@
                 "path": "^loot_table/(brazier_loot|decorated_pot_loot|incense/.*|entities/filth)\\.json$"
             },
             {
+                "namespace": "^atmospheric$",
+                "path": "^blueprint/modded_biome_slices/(rainforest|laurel)\\.json$"
+            },
+            {
+                "namespace": "^caverns_and_chasms$",
+                "path": "^loot_table/entities/(.*eeper|mime)\\.json$"
+            },
+            {
+                "namespace": "^caverns_and_chasms$",
+                "path": "^neoforge/biome_modifier/add_spawn/mime\\.json$"
+            },
+            {
+                "namespace": "^caverns_and_chasms$",
+                "path": "^loot_table/chests/(forge_dispenser|vault)\\.json$"
+            },
+            {
+                "namespace": "^caverns_and_chasms$",
+                "path": "^loot_table/archaeology/forge_.*\\.json$"
+            },
+            {
                 "namespace": "^caverns_and_chasms$",
                 "path": "^remolders/advancement/adventure/trim_with_any_armor_pattern\\.json$"
+            },
+            {
+                "namespace": "^caverns_and_chasms$",
+                "path": "^remolders/worldgen/structure_set/mineshafts\\.json$"
+            },
+            {
+                "namespace": "^caverns_and_chasms$",
+                "path": "^blueprint/structure_repaletters/bastion_additions\\.json$"
+            },
+            {
+                "namespace": "^caverns_and_chasms$",
+                "path": "^data_maps/item/placeable_items\\.json$"
+            },
+            {
+                "namespace": "^upgrade_aquatic$",
+                "path": "^neoforge/biome_modifier/add_spawn/nautilus\\.json$"
+            },
+            {
+                "namespace": "^upgrade_aquatic$",
+                "path": "^loot_table/entities/nautilus\\.json$"
+            },
+            {
+                "namespace": "^windswept$",
+                "path": "^blueprint/structure_repaletters/woodworks_.*\\.json$"
             }
         ]
     }

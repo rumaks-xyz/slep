@@ -1,6 +1,10 @@
 {
     "values": [
         {
+            "id": "minecraft:shelf_mushroom",
+            "required": false
+        },
+        {
             "id": "farmersdelight:red_mushroom_colony",
             "required": false
         },

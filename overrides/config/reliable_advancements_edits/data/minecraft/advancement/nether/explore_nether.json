@@ -1,0 +1,155 @@
+{
+  "criteria": {
+    "minecraft:crimson_forest": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": [
+          {
+            "predicate": {
+              "location": {
+                "biomes": "minecraft:crimson_forest"
+              }
+            },
+            "entity": "this",
+            "condition": "minecraft:entity_properties"
+          }
+        ]
+      }
+    },
+    "minecraft:basalt_deltas": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": [
+          {
+            "predicate": {
+              "location": {
+                "biomes": "minecraft:basalt_deltas"
+              }
+            },
+            "entity": "this",
+            "condition": "minecraft:entity_properties"
+          }
+        ]
+      }
+    },
+    "minecraft:soul_sand_valley": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": [
+          {
+            "predicate": {
+              "location": {
+                "biomes": "minecraft:soul_sand_valley"
+              }
+            },
+            "entity": "this",
+            "condition": "minecraft:entity_properties"
+          }
+        ]
+      }
+    },
+    "minecraft:nether_wastes": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": [
+          {
+            "predicate": {
+              "location": {
+                "biomes": "minecraft:nether_wastes"
+              }
+            },
+            "entity": "this",
+            "condition": "minecraft:entity_properties"
+          }
+        ]
+      }
+    },
+    "minecraft:warped_forest": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": [
+          {
+            "predicate": {
+              "location": {
+                "biomes": "minecraft:warped_forest"
+              }
+            },
+            "entity": "this",
+            "condition": "minecraft:entity_properties"
+          }
+        ]
+      }
+    },
+    "gardens_of_the_dead:soulblight_forest": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": [
+          {
+            "predicate": {
+              "location": {
+                "biomes": "gardens_of_the_dead:soulblight_forest"
+              }
+            },
+            "entity": "this",
+            "condition": "minecraft:entity_properties"
+          }
+        ]
+      }
+    },
+    "gardens_of_the_dead:whistling_woods": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": [
+          {
+            "predicate": {
+              "location": {
+                "biomes": "gardens_of_the_dead:whistling_woods"
+              }
+            },
+            "entity": "this",
+            "condition": "minecraft:entity_properties"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "minecraft:crimson_forest"
+    ],
+    [
+      "minecraft:basalt_deltas"
+    ],
+    [
+      "minecraft:soul_sand_valley"
+    ],
+    [
+      "minecraft:nether_wastes"
+    ],
+    [
+      "minecraft:warped_forest"
+    ],
+    [
+      "gardens_of_the_dead:soulblight_forest"
+    ],
+    [
+      "gardens_of_the_dead:whistling_woods"
+    ]
+  ],
+  "sends_telemetry_event": true,
+  "parent": "minecraft:nether/ride_strider",
+  "display": {
+    "frame": "challenge",
+    "icon": {
+      "id": "minecraft:netherite_boots"
+    },
+    "title": "Hot Tourist Destinations",
+    "description": "Explore all Nether biomes"
+  },
+  "rewards": {
+    "experience": 500
+  },
+  "parents": [
+    "minecraft:nether/ride_strider"
+  ]
+}

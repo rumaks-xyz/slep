@@ -1,0 +1,57 @@
+{
+  "repaletter": [
+    {
+      "type": "blueprint:simple",
+      "replaces_block": "minecraft:birch_planks",
+      "replaces_with": "atmospheric:yucca_planks"
+    },
+    {
+      "type": "blueprint:simple",
+      "replaces_block": "minecraft:birch_stairs",
+      "replaces_with": "atmospheric:yucca_stairs"
+    },
+    {
+      "type": "blueprint:simple",
+      "replaces_block": "minecraft:birch_slab",
+      "replaces_with": "atmospheric:yucca_slab"
+    },
+    {
+      "type": "blueprint:simple",
+      "replaces_block": "minecraft:birch_log",
+      "replaces_with": "atmospheric:yucca_log"
+    },
+    {
+      "type": "blueprint:simple",
+      "replaces_block": "minecraft:stripped_birch_log",
+      "replaces_with": "atmospheric:stripped_yucca_log"
+    },
+    {
+      "type": "blueprint:simple",
+      "replaces_block": "minecraft:birch_fence",
+      "replaces_with": "atmospheric:yucca_fence"
+    },
+    {
+      "type": "blueprint:simple",
+      "replaces_block": "minecraft:birch_fence_gate",
+      "replaces_with": "atmospheric:yucca_fence_gate"
+    },
+    {
+      "type": "blueprint:simple",
+      "replaces_block": "minecraft:birch_door",
+      "replaces_with": "atmospheric:yucca_door"
+    },
+    {
+      "type": "blueprint:simple",
+      "replaces_block": "minecraft:birch_trapdoor",
+      "replaces_with": "atmospheric:yucca_trapdoor"
+    },
+    {
+      "type": "blueprint:simple",
+      "replaces_block": "minecraft:birch_button",
+      "replaces_with": "atmospheric:yucca_button"
+    }
+  ],
+  "structures": [
+    "nova_structures:desert_ruins"
+  ]
+}

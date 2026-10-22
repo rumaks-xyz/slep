@@ -21,6 +21,10 @@
             "required": false
         },
         {
+            "id": "#minecraft:wooden_shelves",
+            "required": false
+        },
+        {
             "id": "gardens_of_the_dead:whistlecane",
             "required": false
         }

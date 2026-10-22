@@ -2,13 +2,6 @@
     "feature": "upgrade_aquatic:river_tree",
     "placement": [
         {
-            "type": "minecraft:count",
-            "count": {
-                "type": "minecraft:constant",
-                "value": 8
-            }
-        },
-        {
             "type": "minecraft:in_square"
         },
         {
@@ -21,7 +14,7 @@
                 "min_inclusive": -10,
                 "max_inclusive": 10,
                 "mean": 0,
-                "deviation": 5
+                "deviation": 4
             },
             "y_spread": 0
         },

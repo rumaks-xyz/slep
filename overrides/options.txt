@@ -1,4 +1,4 @@
-resourcePacks:["vanilla","mod_resources","fabric","moonlight:merged_pack","mod/integrated_mining:resourcepacks/integrated_mining_resources","file/DerpWood.zip","file/ModdedGalleryCompat1.21.1-1.6.zip","file/Dye Overrides - Textures Only","file/VanillaTweaks.zip","file/Fast Better Grass.zip","file/slep resources"]
+resourcePacks:["vanilla","mod_resources","fabric","moonlight:merged_pack","file/DerpWood.zip","file/ModdedGalleryCompat1.21.1-1.6.zip","file/VanillaTweaks.zip","file/slep resources","file/Fast Better Grass.zip","file/Fast Better Grass - slep mod compats"]
 incompatibleResourcePacks:["file/DerpWood.zip"]
 lang:en_us
 tutorialStep:none
@@ -11,3 +11,4 @@ fullscreen:true
 directionalAudio:true
 skipMultiplayerWarning:true
 joinedFirstServer:true
+hideBundleTutorial:true

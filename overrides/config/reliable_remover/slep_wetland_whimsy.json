@@ -8,7 +8,8 @@
         ],
         "patterns": [
             "/wetland_whimsy:.*_brazier/",
-            "/wetland_whimsy:.*_incense/"
+            "/wetland_whimsy:.*_incense/",
+            "/wetland_whimsy:fellcap_.*/"
         ]
     }
 ]

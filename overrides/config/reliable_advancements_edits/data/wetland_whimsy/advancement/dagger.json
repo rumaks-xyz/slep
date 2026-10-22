@@ -1,0 +1,31 @@
+{
+  "criteria": {
+    "dagger": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "wetland_whimsy:dagger"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "dagger"
+    ]
+  ],
+  "parent": "minecraft:adventure/minecraft_trials_edition",
+  "display": {
+    "frame": "goal",
+    "icon": {
+      "id": "wetland_whimsy:dagger"
+    },
+    "title": "Stabby Stabby",
+    "description": "Craft a Dagger, which deals extra damage after being attacked"
+  },
+  "parents": [
+    "minecraft:adventure/minecraft_trials_edition"
+  ]
+}

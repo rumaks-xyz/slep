@@ -1,0 +1,88 @@
+{
+  "repaletter": [
+    {
+      "type": "blueprint:simple",
+      "replaces_block": "minecraft:spruce_planks",
+      "replaces_with": "windswept:chestnut_planks"
+    },
+    {
+      "type": "blueprint:simple",
+      "replaces_block": "minecraft:spruce_stairs",
+      "replaces_with": "windswept:chestnut_stairs"
+    },
+    {
+      "type": "blueprint:simple",
+      "replaces_block": "minecraft:spruce_slab",
+      "replaces_with": "windswept:chestnut_slab"
+    },
+    {
+      "type": "blueprint:simple",
+      "replaces_block": "minecraft:stripped_spruce_log",
+      "replaces_with": "windswept:stripped_chestnut_log"
+    },
+    {
+      "type": "blueprint:simple",
+      "replaces_block": "minecraft:stripped_spruce_wood",
+      "replaces_with": "windswept:stripped_chestnut_wood"
+    },
+    {
+      "type": "blueprint:simple",
+      "replaces_block": "minecraft:spruce_fence",
+      "replaces_with": "windswept:chestnut_fence"
+    },
+    {
+      "type": "blueprint:simple",
+      "replaces_block": "minecraft:spruce_fence_gate",
+      "replaces_with": "windswept:chestnut_fence_gate"
+    },
+    {
+      "type": "blueprint:simple",
+      "replaces_block": "minecraft:spruce_door",
+      "replaces_with": "windswept:chestnut_door"
+    },
+    {
+      "type": "blueprint:simple",
+      "replaces_block": "minecraft:diorite",
+      "replaces_with": "caverns_and_chasms:diorite_bricks"
+    },
+    {
+      "type": "blueprint:simple",
+      "replaces_block": "minecraft:diorite_stairs",
+      "replaces_with": "caverns_and_chasms:diorite_brick_stairs"
+    },
+    {
+      "type": "blueprint:simple",
+      "replaces_block": "minecraft:diorite_slab",
+      "replaces_with": "caverns_and_chasms:diorite_brick_slab"
+    },
+    {
+      "type": "blueprint:simple",
+      "replaces_block": "minecraft:diorite_wall",
+      "replaces_with": "caverns_and_chasms:diorite_brick_wall"
+    },
+    {
+      "type": "blueprint:simple",
+      "replaces_block": "minecraft:blue_carpet",
+      "replaces_with": "dye_depot:slate_carpet"
+    },
+    {
+      "type": "blueprint:simple",
+      "replaces_block": "minecraft:red_carpet",
+      "replaces_with": "dye_depot:tan_carpet"
+    },
+    {
+      "type": "blueprint:simple",
+      "replaces_block": "minecraft:blue_bed",
+      "replaces_with": "dye_depot:slate_bed"
+    },
+    {
+      "type": "blueprint:simple",
+      "replaces_block": "minecraft:red_bed",
+      "replaces_with": "dye_depot:tan_bed"
+    }
+  ],
+  "structures": [
+    "minecraft:village_snowy",
+    "nova_structures:tavern_snowy"
+  ]
+}

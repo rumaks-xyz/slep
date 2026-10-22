@@ -1,0 +1,19 @@
+{
+    "structures": [
+        {
+            "structure": "nova_structures:lone_citadel",
+            "weight": 1
+        }
+    ],
+    "placement": {
+        "exclusion_zone": {
+            "other_set": "minecraft:villages",
+            "chunk_count": 10
+        },
+        "frequency": 0.1,
+        "spacing": 100,
+        "separation": 16,
+        "salt": 5004938900,
+        "type": "minecraft:random_spread"
+    }
+}

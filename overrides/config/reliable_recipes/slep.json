@@ -1,10 +1,45 @@
 [
     {
         "action": "remove_recipe",
-        "type": "create_dragons_plus:coloring"
+        "id": "create:crafting/appliances/chain_from_zinc"
+    },
+    {
+        "action": "replace_output",
+        "target": "create:dough",
+        "replacement": "farmersdelight:wheat_dough"
+    },
+    {
+        "action": "replace_input",
+        "target": "create:dough",
+        "replacement": "#c:foods/dough"
+    },
+    {
+        "action": "replace_output",
+        "target": "create:dough",
+        "replacement": "farmersdelight:wheat_dough"
+    },
+    {
+        "action": "replace_input",
+        "id": "farmersdelight:wheat_dough_from_egg",
+        "target": "#c:crops/wheat",
+        "replacement": "#c:flours/wheat"
     },
     {
         "action": "remove_recipe",
-        "id": "create:crafting/appliances/chain_from_zinc"
+        "id": [
+            "farmersdelight:wheat_dough_from_water",
+            "create:crafting/appliances/slime_ball"
+        ]
+    },
+    {
+        "action": "replace_output",
+        "target": "create:copper_nugget",
+        "replacement": "minecraft:copper_nugget"
+    },
+    {
+        "action": "replace_input",
+        "id": "simulated:redstone_magnet",
+        "target": "#c:plates/copper",
+        "replacement": "electroenergetics:copper_wire_spool"
     }
 ]

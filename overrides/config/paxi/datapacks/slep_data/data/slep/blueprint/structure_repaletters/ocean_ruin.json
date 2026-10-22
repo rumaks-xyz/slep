@@ -1,0 +1,50 @@
+{
+  "repaletter": [
+    {
+      "type": "blueprint:simple",
+      "replaces_block": "minecraft:mossy_cobblestone",
+      "replaces_with": "upgrade_aquatic:kelpy_cobblestone"
+    },
+    {
+      "type": "blueprint:simple",
+      "replaces_block": "minecraft:mossy_cobblestone_stairs",
+      "replaces_with": "upgrade_aquatic:kelpy_cobblestone_stairs"
+    },
+    {
+      "type": "blueprint:simple",
+      "replaces_block": "minecraft:mossy_cobblestone_slab",
+      "replaces_with": "upgrade_aquatic:kelpy_cobblestone_slab"
+    },
+    {
+      "type": "blueprint:simple",
+      "replaces_block": "minecraft:mossy_cobblestone_wall",
+      "replaces_with": "upgrade_aquatic:kelpy_cobblestone_wall"
+    },
+    {
+      "type": "blueprint:simple",
+      "replaces_block": "minecraft:mossy_stone_bricks",
+      "replaces_with": "upgrade_aquatic:kelpy_stone_bricks"
+    },
+    {
+      "type": "blueprint:simple",
+      "replaces_block": "minecraft:mossy_stone_brick_stairs",
+      "replaces_with": "upgrade_aquatic:kelpy_stone_brick_stairs"
+    },
+    {
+      "type": "blueprint:simple",
+      "replaces_block": "minecraft:mossy_stone_brick_slab",
+      "replaces_with": "upgrade_aquatic:kelpy_stone_brick_slab"
+    },
+    {
+      "type": "blueprint:simple",
+      "replaces_block": "minecraft:mossy_stone_brick_wall",
+      "replaces_with": "upgrade_aquatic:kelpy_stone_brick_wall"
+    }
+  ],
+  "structures": [
+    "minecraft:ocean_ruin_cold",
+    "minecraft:ocean_ruin_warm",
+    "minecraft:ruined_portal_ocean",
+    "nova_structures:conduit_ruin"
+  ]
+}

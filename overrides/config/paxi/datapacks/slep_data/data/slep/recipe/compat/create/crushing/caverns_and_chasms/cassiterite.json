@@ -1,0 +1,19 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "caverns_and_chasms:cassiterite"
+    }
+  ],
+  "processing_time": 250,
+  "results": [
+    {
+      "chance": 0.4,
+      "id": "create:crushed_raw_tin"
+    },
+    {
+      "chance": 0.4,
+      "id": "caverns_and_chasms:tin_nugget"
+    }
+  ]
+}

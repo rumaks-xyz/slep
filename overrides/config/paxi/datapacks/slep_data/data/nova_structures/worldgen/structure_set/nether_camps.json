@@ -1,0 +1,15 @@
+{
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 4533232,
+    "separation": 10,
+    "spacing": 20,
+    "frequency": 0.1
+  },
+  "structures": [
+    {
+      "structure": "nova_structures:piglin_camp",
+      "weight": 3
+    }
+  ]
+}

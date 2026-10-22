@@ -1,0 +1,67 @@
+{
+  "repaletter": [
+    {
+      "type": "blueprint:simple",
+      "replaces_block": "atmospheric:laurel_planks",
+      "replaces_with": "atmospheric:yucca_planks"
+    },
+    {
+      "type": "blueprint:simple",
+      "replaces_block": "atmospheric:laurel_stairs",
+      "replaces_with": "atmospheric:yucca_stairs"
+    },
+    {
+      "type": "blueprint:simple",
+      "replaces_block": "atmospheric:laurel_slab",
+      "replaces_with": "atmospheric:yucca_slab"
+    },
+    {
+      "type": "blueprint:simple",
+      "replaces_block": "atmospheric:laurel_log",
+      "replaces_with": "atmospheric:yucca_log"
+    },
+    {
+      "type": "blueprint:simple",
+      "replaces_block": "atmospheric:laurel_wood",
+      "replaces_with": "atmospheric:yucca_wood"
+    },
+    {
+      "type": "blueprint:simple",
+      "replaces_block": "atmospheric:stripped_laurel_log",
+      "replaces_with": "atmospheric:stripped_yucca_log"
+    },
+    {
+      "type": "blueprint:simple",
+      "replaces_block": "atmospheric:stripped_laurel_wood",
+      "replaces_with": "atmospheric:stripped_yucca_wood"
+    },
+    {
+      "type": "blueprint:simple",
+      "replaces_block": "atmospheric:laurel_fence",
+      "replaces_with": "atmospheric:yucca_fence"
+    },
+    {
+      "type": "blueprint:simple",
+      "replaces_block": "atmospheric:laurel_fence_gate",
+      "replaces_with": "atmospheric:yucca_fence_gate"
+    },
+    {
+      "type": "blueprint:simple",
+      "replaces_block": "atmospheric:laurel_door",
+      "replaces_with": "atmospheric:yucca_door"
+    },
+    {
+      "type": "blueprint:simple",
+      "replaces_block": "atmospheric:laurel_trapdoor",
+      "replaces_with": "atmospheric:yucca_trapdoor"
+    },
+    {
+      "type": "blueprint:simple",
+      "replaces_block": "atmospheric:laurel_button",
+      "replaces_with": "atmospheric:yucca_button"
+    }
+  ],
+  "structures": [
+    "atmospheric:village_scrubland"
+  ]
+}

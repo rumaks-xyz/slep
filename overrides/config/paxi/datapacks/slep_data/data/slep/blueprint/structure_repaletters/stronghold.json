@@ -1,0 +1,202 @@
+{
+  "repaletter": [
+    {
+      "type": "blueprint:simple",
+      "replaces_block": "minecraft:oak_planks",
+      "replaces_with": "environmental:wisteria_planks"
+    },
+    {
+      "type": "blueprint:simple",
+      "replaces_block": "minecraft:oak_stairs",
+      "replaces_with": "environmental:wisteria_stairs"
+    },
+    {
+      "type": "blueprint:simple",
+      "replaces_block": "minecraft:oak_slab",
+      "replaces_with": "environmental:wisteria_slab"
+    },
+    {
+      "type": "blueprint:simple",
+      "replaces_block": "minecraft:oak_log",
+      "replaces_with": "environmental:wisteria_log"
+    },
+    {
+      "type": "blueprint:simple",
+      "replaces_block": "minecraft:oak_wood",
+      "replaces_with": "environmental:wisteria_wood"
+    },
+    {
+      "type": "blueprint:simple",
+      "replaces_block": "minecraft:stripped_oak_log",
+      "replaces_with": "environmental:stripped_wisteria_log"
+    },
+    {
+      "type": "blueprint:simple",
+      "replaces_block": "minecraft:stripped_oak_wood",
+      "replaces_with": "environmental:stripped_wisteria_wood"
+    },
+    {
+      "type": "blueprint:simple",
+      "replaces_block": "minecraft:oak_fence",
+      "replaces_with": "environmental:wisteria_fence"
+    },
+    {
+      "type": "blueprint:simple",
+      "replaces_block": "minecraft:oak_fence_gate",
+      "replaces_with": "environmental:wisteria_fence_gate"
+    },
+    {
+      "type": "blueprint:simple",
+      "replaces_block": "minecraft:oak_door",
+      "replaces_with": "environmental:wisteria_door"
+    },
+    {
+      "type": "blueprint:simple",
+      "replaces_block": "minecraft:oak_trapdoor",
+      "replaces_with": "environmental:wisteria_door"
+    },
+    {
+      "type": "blueprint:simple",
+      "replaces_block": "minecraft:spruce_planks",
+      "replaces_with": "upgrade_aquatic:river_planks"
+    },
+    {
+      "type": "blueprint:simple",
+      "replaces_block": "minecraft:spruce_stairs",
+      "replaces_with": "upgrade_aquatic:river_stairs"
+    },
+    {
+      "type": "blueprint:simple",
+      "replaces_block": "minecraft:spruce_slab",
+      "replaces_with": "upgrade_aquatic:river_slab"
+    },
+    {
+      "type": "blueprint:simple",
+      "replaces_block": "minecraft:spruce_log",
+      "replaces_with": "upgrade_aquatic:river_log"
+    },
+    {
+      "type": "blueprint:simple",
+      "replaces_block": "minecraft:spruce_wood",
+      "replaces_with": "upgrade_aquatic:river_wood"
+    },
+    {
+      "type": "blueprint:simple",
+      "replaces_block": "minecraft:stripped_spruce_log",
+      "replaces_with": "upgrade_aquatic:stripped_river_log"
+    },
+    {
+      "type": "blueprint:simple",
+      "replaces_block": "minecraft:stripped_spruce_wood",
+      "replaces_with": "upgrade_aquatic:stripped_river_wood"
+    },
+    {
+      "type": "blueprint:simple",
+      "replaces_block": "minecraft:spruce_fence",
+      "replaces_with": "upgrade_aquatic:river_fence"
+    },
+    {
+      "type": "blueprint:simple",
+      "replaces_block": "minecraft:spruce_fence_gate",
+      "replaces_with": "upgrade_aquatic:river_fence_gate"
+    },
+    {
+      "type": "blueprint:simple",
+      "replaces_block": "minecraft:spruce_door",
+      "replaces_with": "upgrade_aquatic:river_door"
+    },
+    {
+      "type": "blueprint:simple",
+      "replaces_block": "minecraft:spruce_door",
+      "replaces_with": "upgrade_aquatic:river_trapdoor"
+    },
+    {
+      "type": "blueprint:simple",
+      "replaces_block": "minecraft:spruce_leaves",
+      "replaces_with": "upgrade_aquatic:river_leaves"
+    },
+    {
+      "type": "blueprint:simple",
+      "replaces_block": "minecraft:cobblestone",
+      "replaces_with": "caverns_and_chasms:cobblestone_tiles"
+    },
+    {
+      "type": "blueprint:simple",
+      "replaces_block": "minecraft:cobblestone_stairs",
+      "replaces_with": "caverns_and_chasms:cobblestone_tile_stairs"
+    },
+    {
+      "type": "blueprint:simple",
+      "replaces_block": "minecraft:cobblestone_slab",
+      "replaces_with": "caverns_and_chasms:cobblestone_tile_slab"
+    },
+    {
+      "type": "blueprint:simple",
+      "replaces_block": "minecraft:cobblestone_wall",
+      "replaces_with": "caverns_and_chasms:cobblestone_tile_wall"
+    },
+    {
+      "type": "blueprint:simple",
+      "replaces_block": "minecraft:mossy_cobblestone",
+      "replaces_with": "caverns_and_chasms:mossy_cobblestone_tiles"
+    },
+    {
+      "type": "blueprint:simple",
+      "replaces_block": "minecraft:mossy_cobblestone_stairs",
+      "replaces_with": "caverns_and_chasms:mossy_cobblestone_tile_stairs"
+    },
+    {
+      "type": "blueprint:simple",
+      "replaces_block": "minecraft:mossy_cobblestone_slab",
+      "replaces_with": "caverns_and_chasms:mossy_cobblestone_tile_slab"
+    },
+    {
+      "type": "blueprint:simple",
+      "replaces_block": "minecraft:mossy_cobblestone_wall",
+      "replaces_with": "caverns_and_chasms:mossy_cobblestone_tile_wall"
+    },
+    {
+      "type": "blueprint:simple",
+      "replaces_block": "minecraft:smooth_stone_slab",
+      "replaces_with": "minecraft:polished_andesite_slab"
+    },
+    {
+      "type": "blueprint:simple",
+      "replaces_block": "minecraft:blue_wool",
+      "replaces_with": "dye_depot:teal_wool"
+    },
+    {
+      "type": "blueprint:simple",
+      "replaces_block": "minecraft:blue_carpet",
+      "replaces_with": "dye_depot:teal_carpet"
+    },
+    {
+      "type": "blueprint:simple",
+      "replaces_block": "minecraft:cyan_carpet",
+      "replaces_with": "dye_depot:mint_carpet"
+    },
+    {
+      "type": "blueprint:simple",
+      "replaces_block": "minecraft:green_carpet",
+      "replaces_with": "dye_depot:verdant_carpet"
+    },
+    {
+      "type": "blueprint:simple",
+      "replaces_block": "minecraft:lime_carpet",
+      "replaces_with": "dye_depot:forest_carpet"
+    },
+    {
+      "type": "blueprint:simple",
+      "replaces_block": "minecraft:red_carpet",
+      "replaces_with": "dye_depot:maroon_carpet"
+    },
+    {
+      "type": "blueprint:simple",
+      "replaces_block": "minecraft:red_bed",
+      "replaces_with": "dye_depot:maroon_bed"
+    }
+  ],
+  "structures": [
+    "minecraft:stronghold"
+  ]
+}

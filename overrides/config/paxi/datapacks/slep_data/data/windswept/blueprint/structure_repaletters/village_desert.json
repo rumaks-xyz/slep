@@ -26,5 +26,8 @@
       "replaces_with": "windswept:arkose"
     }
   ],
-  "structures": "minecraft:village_desert"
+  "structures": [
+    "minecraft:village_desert",
+    "nova_structures:tavern_desert"
+  ]
 }

@@ -1,5 +1,6 @@
 {
-    "values": [
-        "minecraft:snow_block"
+    "values": [],
+    "remove": [
+        "minecraft:packed_ice"
     ]
 }
