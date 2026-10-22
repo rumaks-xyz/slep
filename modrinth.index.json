@@ -321,6 +321,21 @@
         },
         {
             "downloads": [
+                "https://cdn.modrinth.com/data/fJ183v3D/versions/iZflRKdV/SSRD-1.8.7-1.21.1.jar"
+            ],
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "fileSize": 74407,
+            "hashes": {
+                "sha1": "7da02fc5f783bedb55a29268e4c8ba7b0c3c9e6f",
+                "sha512": "fb09bb6799f2f9d8b051bc87920a49ee68319c358d0d23be5beaea444542be8336a52f71b57f81e8871df274fe2e1310121b90a3aded615421e84bcd6dfbae47"
+            },
+            "path": "mods/SSRD-1.8.7-1.21.1.jar"
+        },
+        {
+            "downloads": [
                 "https://cdn.modrinth.com/data/iJNje1E8/versions/XXjs6tNa/SnowRealMagic-1.21.1-NeoForge-12.2.3.jar"
             ],
             "env": {
@@ -693,6 +708,21 @@
                 "sha512": "f9808b360746f691765d422b1df512c7d627ef58a1c03ad75bd12f8d847c1f506e164390090fe9fd8d5eaa14f85bb274510db63d1ce27baca4624a1dc2aa3ba7"
             },
             "path": "mods/cerulean-neoforge-1.0.0-1.21.1.jar"
+        },
+        {
+            "downloads": [
+                "https://cdn.modrinth.com/data/4BeAEBIb/versions/mWXdeV0J/chunksmith-4.6.0%2B1.21.1-neoforge.jar"
+            ],
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "fileSize": 700128,
+            "hashes": {
+                "sha1": "ec75a09925792bc86cc5b9ca4e0b3741489cb5aa",
+                "sha512": "09e7559c82c2fcfdc327f307b0ac7e3b396aa6dfa3c4ac121ca309cd63edd58b77626abbea59170454199c3bd2cc75fd48c70aa8dd006e6f1e6458cb8dcbd917"
+            },
+            "path": "mods/chunksmith-4.6.0+1.21.1-neoforge.jar"
         },
         {
             "downloads": [
@@ -1146,21 +1176,6 @@
         },
         {
             "downloads": [
-                "https://cdn.modrinth.com/data/btCrWvHr/versions/K3Vz3uXn/enderscape-neoforge-1.0.9%2Bmc1.21.1.jar"
-            ],
-            "env": {
-                "client": "required",
-                "server": "required"
-            },
-            "fileSize": 93148079,
-            "hashes": {
-                "sha1": "5d45e8282989817ee04682620c9351c76dc62308",
-                "sha512": "8225a4e7873fe5cf336ca82aa9a2f01b18e169e59e160c033fdc0d80922e3abe270f50c9758adc6a70063b3d53e7e61da2eef029eb2320ee016d3ffeff15b917"
-            },
-            "path": "mods/enderscape-neoforge-1.0.9+mc1.21.1.jar"
-        },
-        {
-            "downloads": [
                 "https://cdn.modrinth.com/data/NNAgCjsB/versions/eieYbWYb/entityculling-neoforge-1.11.3-mc1.21.1.jar"
             ],
             "env": {
@@ -1233,6 +1248,21 @@
                 "sha512": "b19e348d01ab4c059b5a5277b4e7caea828a9e2e7d49871ae3a0c495d76a473865126fa6a10a6044f67742221fb3dd1ff25fffc0c85eacac8a52a95adc37824f"
             },
             "path": "mods/flerovium-neoforge-1.21.1-1.2.0-all.jar"
+        },
+        {
+            "downloads": [
+                "https://cdn.modrinth.com/data/Aqlf1Shp/versions/dAxle9F7/forgified-fabric-api-0.116.14%2B2.3.0%2B1.21.1.jar"
+            ],
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "fileSize": 5592346,
+            "hashes": {
+                "sha1": "f03504497d29c72a4a7747515d7aa06bbc78c93d",
+                "sha512": "9dbb0018e68b4efd65abf57f5fc41bb5d3b812e4a3cb75164937cb28ab541225b939fdeac0477ec2a7a75507791f3c9fc5592229279c68a9db04854a36ab5d72"
+            },
+            "path": "mods/forgified-fabric-api-0.116.14+2.3.0+1.21.1.jar"
         },
         {
             "downloads": [
@@ -1581,6 +1611,21 @@
         },
         {
             "downloads": [
+                "https://cdn.modrinth.com/data/Ap78bKTp/versions/VnJRhuAn/roxy-1.21.1-NeoForge-0.4.1.jar"
+            ],
+            "env": {
+                "client": "required",
+                "server": "unsupported"
+            },
+            "fileSize": 2718886,
+            "hashes": {
+                "sha1": "721a9ea102aedc714c2afa827753594eb19cd392",
+                "sha512": "ed9d4257e43ca4eeb6cf2c0188f0f359c4b90f84650bba44971a1e7b2d4470f9113d46fc6de86b1de5bdf9a26bc6511ba42149f1a9ba3ca92bbd52eca87c5c88"
+            },
+            "path": "mods/roxy-1.21.1-NeoForge-0.4.1.jar"
+        },
+        {
+            "downloads": [
                 "https://cdn.modrinth.com/data/foa4fGIH/versions/sAaG4pSA/rusticdelight-neoforge-1.21-1.7.1.jar"
             ],
             "env": {
@@ -1821,21 +1866,6 @@
         },
         {
             "downloads": [
-                "https://cdn.modrinth.com/data/q8k4zHw5/versions/wqxXFq0d/trimmed-neo-1.21-3.0.0.jar"
-            ],
-            "env": {
-                "client": "required",
-                "server": "required"
-            },
-            "fileSize": 281114,
-            "hashes": {
-                "sha1": "c1ee534f00f4ee476e868f4db4dea99c7d41570d",
-                "sha512": "d6efb0c378b94d539cdd99ce7ce11862518e971973210ff383506996af69b40a1fb54aecd71ebf73bd0f1e453ce80227b810781d1ad7f9a2dd076b7bb6d00811"
-            },
-            "path": "mods/trimmed-neo-1.21-3.0.0.jar"
-        },
-        {
-            "downloads": [
                 "https://cdn.modrinth.com/data/vBbPDuOs/versions/M1CyD3Uu/txnilib-neoforge-1.0.24-1.21.1.jar"
             ],
             "env": {
@@ -1881,18 +1911,33 @@
         },
         {
             "downloads": [
-                "https://cdn.modrinth.com/data/9eGKb6K1/versions/qqNx1Yjm/voicechat-neoforge-1.21.1-2.6.24.jar"
+                "https://cdn.modrinth.com/data/9eGKb6K1/versions/KDRDUnk4/voicechat-neoforge-1.21.1-2.6.25.jar"
             ],
             "env": {
                 "client": "required",
                 "server": "required"
             },
-            "fileSize": 4934688,
+            "fileSize": 4935905,
             "hashes": {
-                "sha1": "436ee200d5192ffda65fcf70c42c086fcdc00826",
-                "sha512": "730d2b2acc39afbac16cd3e4312d411e6f226f71aa58e26ff9c772110f962b2e2c7810baa3cd19cd82d28aed85c58d0c0df1ed5fc97dad8a89655008f3461a31"
+                "sha1": "8546b80b9bd2352334d4719953fde61b90c26f5f",
+                "sha512": "28c735ea34eacdbdd2d8de79ed784b8877b101801149ff47d03ee8e4b3cf70429c33edf6a35181e4ada596b521e0d0bd1b83f6dd281f5ca84dfcfa61cbbe967a"
             },
-            "path": "mods/voicechat-neoforge-1.21.1-2.6.24.jar"
+            "path": "mods/voicechat-neoforge-1.21.1-2.6.25.jar"
+        },
+        {
+            "downloads": [
+                "https://cdn.modrinth.com/data/fxxUqruK/versions/H3w2nVdU/voxy-0.2.16-beta%2B1.21.11.jar"
+            ],
+            "env": {
+                "client": "required",
+                "server": "unsupported"
+            },
+            "fileSize": 12620254,
+            "hashes": {
+                "sha1": "280a55279e0860d29146d908cd8a0246a12e2537",
+                "sha512": "d5159e2e745a9c50f16c67c54303b8a991dc5a1954e5cd7edc235c6f24ad2a045cb493e128717ed4e97352366ae83b03b3d73815342421e631c2a8995c48cccb"
+            },
+            "path": "mods/voxy-0.2.16-beta+1.21.11.jar"
         },
         {
             "downloads": [
@@ -2033,6 +2078,6 @@
     "formatVersion": 1,
     "game": "minecraft",
     "name": "slep",
-    "versionId": "0.2.0"
+    "versionId": "0.2.1"
 }
 
