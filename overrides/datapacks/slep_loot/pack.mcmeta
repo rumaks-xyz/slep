@@ -1,0 +1,30 @@
+{
+    "pack": {
+        "pack_format": 48,
+        "description": "slep loot tables."
+    },
+    "filter": {
+        "block": [
+            {
+                "namespace": "^wetland_whimsy$",
+                "path": "^loot_table/(brazier_loot|decorated_pot_loot|incense/.*|entities/filth)\\.json$"
+            },
+            {
+                "namespace": "^caverns_and_chasms$",
+                "path": "^loot_table/entities/(.*eeper|mime)\\.json$"
+            },
+            {
+                "namespace": "^caverns_and_chasms$",
+                "path": "^loot_table/chests/(forge_dispenser|vault)\\.json$"
+            },
+            {
+                "namespace": "^caverns_and_chasms$",
+                "path": "^loot_table/archaeology/forge_.*\\.json$"
+            },
+            {
+                "namespace": "^upgrade_aquatic$",
+                "path": "^loot_table/entities/nautilus\\.json$"
+            }
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "pack": {
+        "pack_format": 48,
+        "description": "slep tags."
+    },
+    "filter": {
+        "block": [
+            {
+                "namespace": "^caverns_and_chasms$",
+                "path": "^data_maps/item/placeable_items\\.json$"
+            }
+        ]
+    }
+}
