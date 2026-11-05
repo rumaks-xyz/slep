@@ -1,0 +1,17 @@
+{
+  "molding": "json",
+  "remolder": {
+    "type": "remove",
+    "target": "config.decorators[0]"
+  },
+  "selector": {
+    "type": "names",
+    "config": [
+      "environmental:worldgen/configured_feature/tall_pine_with_podzol",
+      "environmental:worldgen/configured_feature/tall_pine",
+      "environmental:worldgen/configured_feature/pine_on_stone",
+      "environmental:worldgen/configured_feature/pine_bees_0002",
+      "environmental:worldgen/configured_feature/pine"
+    ]
+  }
+}

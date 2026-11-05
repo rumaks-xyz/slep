@@ -66,12 +66,5 @@
             "enderscape:cyan_dye_from_bulb_flower"
         ],
         "replacement": "dye_depot:aqua_dye"
-    },
-    {
-        "action": "remove_recipe",
-        "id": [
-            "create:milling/compat/environmental/bluebell",
-            "create:milling/compat/atmospheric/firethorn"
-        ]
     }
 ]

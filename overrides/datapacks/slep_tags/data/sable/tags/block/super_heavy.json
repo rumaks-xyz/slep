@@ -7,7 +7,6 @@
     ],
     "remove": [
         "#c:storage_blocks/all_copper",
-        "autumnity:snail_shell_block",
-        "enderscape:drift_jelly_block"
+        "autumnity:snail_shell_block"
     ]
 }

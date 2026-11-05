@@ -1,0 +1,9 @@
+{
+  "molding": "json",
+  "remolder": {
+    "type": "replace",
+    "target": "pools[1].entries[0].name",
+    "value": "wetland_whimsy:filthy_bone"
+  },
+  "selector": "minecraft:loot_table/entities/bogged"
+}

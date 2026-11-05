@@ -13,14 +13,6 @@
             "required": false
         },
         {
-            "id": "curiosities:aluminum_bars",
-            "required": false
-        },
-        {
-            "id": "curiosities:nickel_bars",
-            "required": false
-        },
-        {
             "id": "caverns_and_chasms:silver_bars",
             "required": false
         },

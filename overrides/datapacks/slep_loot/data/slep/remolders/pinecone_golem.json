@@ -1,0 +1,9 @@
+{
+  "molding": "json",
+  "remolder": {
+    "type": "replace",
+    "target": "pools[0].entries[0].name",
+    "value": "windswept:pine_sapling"
+  },
+  "selector": "environmental:loot_table/entities/pinecone_golem"
+}

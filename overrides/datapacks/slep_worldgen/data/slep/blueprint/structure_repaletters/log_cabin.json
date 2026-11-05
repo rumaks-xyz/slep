@@ -1,0 +1,12 @@
+{
+  "repaletter": [
+    {
+      "type": "blueprint:simple",
+      "replaces_block": "environmental:pinecone",
+      "replaces_with": "windswept:pinecone_block"
+    }
+  ],
+  "structures": [
+    "environmental:log_cabin"
+  ]
+}
