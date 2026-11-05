@@ -1,0 +1,120 @@
+		[types.wood_type.atmospheric]
+			rosewood = false
+			morado = true
+			yucca = true
+			aspen = false
+			laurel = false
+			kousa = true
+			grimwood = false
+
+		[types.wood_type.autumnity]
+			maple = true
+
+		[types.wood_type.caverns_and_chasms]
+			azalea = true
+
+		[types.wood_type.createdieselgenerators]
+			chip_wood = false
+
+		[types.wood_type.environmental]
+			willow = true
+			pine = true
+			plum = true
+			wisteria = true
+
+		[types.wood_type.gardens_of_the_dead]
+			whistlecane = true
+			soulblight = true
+
+		[types.wood_type.minecraft]
+			pale_oak = false
+			poplar = true
+
+		[types.wood_type.mynethersdelight]
+			powdery = true
+
+		[types.wood_type.upgrade_aquatic]
+			driftwood = true
+			river = true
+
+		[types.wood_type.wetland_whimsy]
+			bald_cypress = true
+
+		[types.wood_type.windswept]
+			holly = true
+			chestnut = true
+			pine = true
+
+		[types.leaves_type.atmospheric]
+			rosewood = false
+			morado = true
+			flowering_morado = true
+			yucca = true
+			aspen = false
+			green_aspen = true
+			laurel = false
+			dry_laurel = false
+			kousa = true
+			currant = true
+			grimwood = false
+
+		[types.leaves_type.autumnity]
+			maple = true
+			yellow_maple = true
+			orange_maple = true
+			red_maple = true
+
+		[types.leaves_type.environmental]
+			pink_wisteria = true
+			blue_wisteria = true
+			purple_wisteria = true
+			white_wisteria = true
+			hibiscus = true
+			willow = true
+			pine = true
+			plum = true
+			cheerful_plum = true
+			moody_plum = true
+			wisteria = true
+
+		[types.leaves_type.minecraft]
+			pale_oak = false
+			red_poplar = true
+			orange_poplar = true
+			yellow_poplar = true
+
+		[types.leaves_type.upgrade_aquatic]
+			river = true
+
+		[types.leaves_type.wetland_whimsy]
+			bald_cypress = true
+
+		[types.leaves_type.windswept]
+			holly = true
+			chestnut = true
+			pine = true
+			flowering_acacia = true
+
+		[entries.wood_type.create]
+			window = true
+			window_pane = true
+
+		[entries.wood_type.farmersdelight]
+			cabinet = true
+
+		[entries.wood_type.vanillabackport]
+			shelf = true
+
+		[entries.wood_type.woodworks]
+			bookshelf = false
+			chiseled_bookshelf = false
+			trapped_closet = false
+			trapped_chest = false
+			boards = false
+			chest = false
+			closet = false
+			ladder = false
+			beehive = false
+
+		[entries.leaves_type.woodworks]
+			leaf_pile = true
