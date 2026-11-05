@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:random_selector",
+  "config": {
+    "default": "slep_leaves:fallen_poplar_leaves_orange",
+    "features": [
+      {
+        "chance": 0.4,
+        "feature": "slep_leaves:fallen_poplar_leaves_red"
+      }
+    ]
+  }
+}

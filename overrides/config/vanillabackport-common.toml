@@ -13,15 +13,15 @@
 
 ["The Garden Awakens"]
 	#allow Resin to be obtained from Creaking Hearts
-	resin = true
+	resin = false
 	#allow Resin to generate in Woodland Mansion loot chests
-	resin_loot = true
+	resin_loot = false
 	#allow Creakings to spawn from Creaking Hearts
-	creaking = true
+	creaking = false
 	#allow Pale Garden biomes to generate
-	pale_garden = true
+	pale_garden = false
 	#Wandering Traders to offer items from The Garden Awakens
-	pale_trades = true
+	pale_trades = false
 	#primary color of Creaking Heart trail particles
 	creaking_particle_color = 6250335
 	#secondary color of Creaking Heart trail particles
@@ -74,11 +74,11 @@
 
 ["Chase the Skies"]
 	#allow Dried Ghasts to be obtainable through Nether Fossils and Piglin bartering
-	dried_ghasts = true
+	dried_ghasts = false
 	#drop leash connections when using a Firework Rocket boost
 	leash_drop_connections = true
 	#allow Ghasts to drop the Tears music disc
-	tears_music_disc = true
+	tears_music_disc = false
 	#movement speed multiplier for ridden Happy Ghasts
 	happy_ghast_speed_modifier = 1.0
 	#allow Leashes to have the modern physics and interactions
@@ -90,21 +90,21 @@
 
 ["Chaos Cubed"]
 	#allow Sulfur Cave biomes to generate
-	has_sulfur_caves = true
+	has_sulfur_caves = false
 	#allow Sulfur Springs to generate in Sulfur Caves
-	has_sulfur_springs = true
+	has_sulfur_springs = false
 	#allow Potent Sulfur blocks to generate Geysers
-	do_geysers_erupt = true
+	do_geysers_erupt = false
 	#allow Sulfur Cubes to spawn in Sulfur Caves
-	has_sulfur_cubes = true
+	has_sulfur_cubes = false
 	#allow explosive Sulfur Cube archetypes to explode
-	do_sulfur_cubes_explode = true
+	do_sulfur_cubes_explode = false
 	#allow damaging Sulfur Cube archetypes to deal damage
-	do_sulfur_cubes_damage = true
+	do_sulfur_cubes_damage = false
 	#allow Wandering Traders to offer items from Chaos Cubed
-	do_merchant_trade_chaos_cubed_contents = true
+	do_merchant_trade_chaos_cubed_contents = false
 	#allows the Bounce music disc to generate in Abandoned Mineshafts loot chests
-	has_bounce_music_disc = true
+	has_bounce_music_disc = false
 
 ["Copper Age"]
 	#allow Copper Horse Armor to generate in loot chests
@@ -126,7 +126,7 @@
 	#allow Copper Nuggets to be obtainable via crafting
 	has_copper_nuggets = true
 	#allow Copper Armor, Weapons and Tools to be obtainable
-	has_copper_toolset = true
+	has_copper_toolset = false
 	#allow Weathering Lightning Rods to be obtainable
 	has_weathering_lightning_rods = true
 
@@ -134,7 +134,7 @@
 	#allow Parched Skeletons to spawn naturally
 	has_parched_skeletons = true
 	#allow Camel Husks to spawn naturally
-	has_camel_husks = true
+	has_camel_husks = false
 	#allow Nautilus to spawn naturally
 	has_nautilus = true
 	#allow Zombie Horses to spawn naturally
@@ -142,7 +142,7 @@
 	#chance for a drowned to spawn riding a nautilus
 	# Default: 0.5
 	# Range: 0.0 ~ 1.0
-	zombie_nautilus_spawn_chance = 0.5
+	zombie_nautilus_spawn_chance = 0
 	#allow Nautilus Armor to generate in loot chests
 	has_nautilus_armor_loot = false
 	#allow Spears to be obtainable and allow monsters to spawn holding them

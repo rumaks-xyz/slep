@@ -20,32 +20,52 @@
             "minecraft:blue_egg",
             "upgrade_aquatic:elder_eye",
             "create:copper_bars",
-            "everycomp:abnww/mynethersdelight/powdery_boards",
-            "everycomp:abnww/gardens_of_the_dead/whistlecane_boards",
             "createlazytick:clock",
             "create:dough",
             "atmospheric:grimweb",
             "cratedelight:egg_crate",
-            "bits_n_bobs:lightbulb"
+            "bits_n_bobs:lightbulb",
+            "bits_n_bobs:headlamp",
+            "create:copper_nugget",
+            "create:copper_door",
+            "minecraft:music_disc_lava_chicken",
+            "minecraft:straw_bed",
+            "minecraft:open_eyeblossom",
+            "minecraft:closed_eyeblossom",
+            "minecraft:dried_ghast",
+            "minecraft:happy_ghast_spawn_egg",
+            "minecraft:music_disc_tears",
+            "minecraft:music_disc_bounce"
         ],
         "patterns": [
-            "/(windswept|dye_the_world):.*_pinecone_shingle(s|_slab|_stairs)/",
-            "/create_connected:music_disc_.*/",
-            "/createdieselgenerators:.*_cement(_bucket)?/",
-            "/createdieselgenerators:plant_oil(_bucket)?/",
-            "/caverns_and_chasms:golden.*_bucket/",
-            "/caverns_and_chasms:.*_toolbox/",
+            "/(windswept|dye_the_world):.+_pinecone_shingle(s|_slab|_stairs)/",
+            "/create_connected:music_disc_.+/",
+            "/createdieselgenerators:.+_cement(_bucket)?/",
+            "/caverns_and_chasms:golden.*bucket/",
+            "/caverns_and_chasms:.*toolbox/",
             "/(caverns_and_chasms|dye_the_world):.*glass_(trap)?door/",
-            "/.*cupric.*/",
-            "/(woodworks|everycomp|windswept):.*_(bookshelf|ladder|chest|beehive|closet)/",
-            "/(woodworks|everycomp|windswept|atmospheric|autumnity|caverns_and_chasms|environmental|upgrade_aquatic):.*_boards/",
+            "/.*cupric_.+/",
+            "/(woodworks|everycomp|windswept):.+_(bookshelf|ladder|chest|beehive|closet)/",
+            "/(woodworks|everycomp|windswept|atmospheric|autumnity|caverns_and_chasms|environmental|upgrade_aquatic):.+_boards/",
             "/(atmospheric|everycomp|abnormals_delight):.*(grimwood|rosewood|laurel|passion).*/",
             "/rusticdelight:.*(pale|dark)_bell_pepper.*/",
-            "/rusticdelight:.*bell_pepper.*_(orange|white|pink|blue|purple|black).*/",
-            "/caverns_and_chasms:(deeper|evendeeper|peeper|mime)_.*/",
-            "/caverns_and_chasms:.*_sparkler/",
-            "/upgrade_aquatic:nautilus_.*/",
-            "/atmospheric:.*(travertine|dolerite).*/"
+            "/rusticdelight:.*bell_pepper.*(orange|white|pink|blue|purple|black).*/",
+            "/caverns_and_chasms:(deeper|evendeeper|peeper|mime)_.+/",
+            "/caverns_and_chasms:.+_sparkler/",
+            "/upgrade_aquatic:nautilus_.+/",
+            "/atmospheric:.*(travertine|dolerite).*/",
+            "/(cratedelight|rusticdelight):.+_seeds_bag/",
+            "/minecraft:.*copper_(bars|chain|lantern|chest|sword|shovel|pickaxe|axe|hoe|helmet|chestplate|leggings|boots|horse_armor).*/",
+            "/minecraft:.*copper_golem.*/",
+            "/minecraft:.+_nautilus_armor/",
+            "/minecraft:.+_(wool|concrete)_(slab|stairs)/",
+            "/minecraft:.+_cushion/",
+            "/(minecraft|everycomp):.*pale_(oak|(hanging)?moss).*/",
+            "/minecraft:.*resin.*/",
+            "/minecraft:creaking_.+/",
+            "/(minecraft|dye_the_world):.+_harness/",
+            "/minecraft:.*cinnabar.*/",
+            "/minecraft:.*sulfur.*/"
         ],
         "effects": [
             "upgrade_aquatic:restfulness",
@@ -53,48 +73,9 @@
         ]
     },
     {
-        "action": "remove",
-        "patterns": [
-            "/minecraft:.*copper_(bars|chain|lantern|chest)/",
-            "/minecraft:.*copper_golem.*/",
-            "/minecraft:.*_nautilus_armor/",
-            "/minecraft:.*_(wool|concrete)_(slab|stairs)/",
-            "/minecraft:.*_cushion/",
-            "/caverns_and_chasms:.*copper_(sword|shovel|pickaxe|axe|hoe|helmet|chestplate|leggings|boots|horse_armor).*/"
-        ],
-        "items": [
-            "create:copper_nugget",
-            "create:copper_door",
-            "minecraft:music_disc_lava_chicken",
-            "minecraft:straw_bed"
-        ]
-    },
-    {
         "action": "remove_enchantment",
         "enchantments": [
             "minecraft:lunge"
         ]
-    },
-    {
-        "action": "remove",
-        "patterns": [
-            "/aeroworks:.*_wheel_module/"
-        ],
-        "not": {
-            "items": [
-                "aeroworks:copper_wheel_module"
-            ]
-        }
-    },
-    {
-        "action": "remove",
-        "patterns": [
-            "/everycomp:.*/createdieselgenerators/chip.*/"
-        ],
-        "not": {
-            "patterns": [
-                "/everycomp:.*/createdieselgenerators/chip.*chest/"
-            ]
-        }
     }
 ]

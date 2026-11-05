@@ -1,0 +1,28 @@
+{
+  "molding": "json",
+  "remolder": {
+    "type": "add",
+    "target": "config.decorators[]",
+    "value": {
+      "type": "autumnity:fallen_leaves",
+      "provider": {
+        "type": "minecraft:simple_state_provider",
+        "state": {
+          "Name": "everycomp:abnww/minecraft/yellow_poplar_leaf_pile",
+          "Properties": {
+            "down": "true",
+            "east": "false",
+            "north": "false",
+            "south": "false",
+            "up": "false",
+            "waterlogged": "false",
+            "west": "false"
+          }
+        }
+      },
+      "radius": 4,
+      "y_spread": 3
+    }
+  },
+  "selector": "minecraft:worldgen/configured_feature/yellow_poplar"
+}

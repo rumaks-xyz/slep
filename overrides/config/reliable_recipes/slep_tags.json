@@ -1,0 +1,12 @@
+[
+    {
+        "action": "remove_from_tag",
+        "tag": "slep:driftwood_recipe_inputs",
+        "id": [
+            "/.+_wood/",
+            "/.+:stripped_.+/",
+            "upgrade_aquatic:driftwood_log",
+            "upgrade_aquatic:driftwood"
+        ]
+    }
+]

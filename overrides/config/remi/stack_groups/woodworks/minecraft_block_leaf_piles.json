@@ -1,0 +1,7 @@
+{
+  "type": "remi:tag",
+  "id": "woodworks:minecraft_block_leaf_piles",
+  "tag": "woodworks:leaf_piles",
+  "registry": "minecraft:block",
+  "enabled": true
+}

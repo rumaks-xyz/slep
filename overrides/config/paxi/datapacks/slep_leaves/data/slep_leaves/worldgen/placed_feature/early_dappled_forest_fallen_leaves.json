@@ -1,0 +1,9 @@
+{
+  "feature": "slep_leaves:early_dappled_forest_fallen_leaves",
+  "placement": [
+    {
+      "type": "minecraft:rarity_filter",
+      "chance": 3
+    }
+  ]
+}

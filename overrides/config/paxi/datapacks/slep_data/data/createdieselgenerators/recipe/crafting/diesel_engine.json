@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "BQB",
+    "PEP",
+    "BFB"
+  ],
+  "key": {
+    "P": {
+      "item": "createdieselgenerators:engine_piston"
+    },
+    "Q": {
+      "item": "minecraft:flint_and_steel"
+    },
+    "B": {
+      "tag": "c:plates/brass"
+    },
+    "F": {
+      "item": "create:fluid_pipe"
+    },
+    "E": {
+      "item": "simulated:engine_assembly"
+    }
+  },
+  "result": {
+    "id": "createdieselgenerators:diesel_engine"
+  }
+}

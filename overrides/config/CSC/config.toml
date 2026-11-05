@@ -1,0 +1,4 @@
+ConfigVersion = "2.27.47"
+[core]
+    ShowWhitelistModeNotice = false
+    WhiteListModEnable = false

@@ -1,0 +1,18 @@
+{
+  "type": "autumnity:noise_selector",
+  "config": {
+    "blending": 0.3,
+    "default": "slep_leaves:late_dappled_forest_fallen_leaves",
+    "features": [
+      {
+        "feature": "slep_leaves:early_dappled_forest_fallen_leaves",
+        "threshold": -0.4
+      },
+      {
+        "feature": "slep_leaves:middle_dappled_forest_fallen_leaves",
+        "threshold": 0.4
+      }
+    ],
+    "noise": "autumnity:autumn_progress"
+  }
+}

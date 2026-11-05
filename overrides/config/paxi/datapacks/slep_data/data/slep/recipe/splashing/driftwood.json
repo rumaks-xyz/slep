@@ -1,0 +1,13 @@
+{
+  "type": "create:splashing",
+  "ingredients": [
+    {
+      "tag": "slep:driftwood_recipe_inputs"
+    }
+  ],
+  "results": [
+    {
+      "id": "upgrade_aquatic:driftwood_log"
+    }
+  ]
+}

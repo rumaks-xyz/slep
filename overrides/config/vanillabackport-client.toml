@@ -16,7 +16,7 @@
 	#enable modern bundle models
 	has_modern_bundle_models = true
 	#enable modern redstone torch models (also effects repeaters and comparators)
-	has_modern_redstone_torch_models = true
+	has_modern_redstone_torch_models = false
 	#enable modern banner pattern textures
 	has_modern_banner_pattern_textures = true
 

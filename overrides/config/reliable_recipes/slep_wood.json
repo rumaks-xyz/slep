@@ -23,24 +23,6 @@
     },
     {
         "action": "replace_input",
-        "target": "enderscape:stripped_veiled_wood",
-        "replacement": "#enderscape:veiled_logs",
-        "type": "woodworks:sawmill"
-    },
-    {
-        "action": "replace_input",
-        "target": "enderscape:stripped_celestial_hyphae",
-        "replacement": "#enderscape:celestial_stems",
-        "type": "woodworks:sawmill"
-    },
-    {
-        "action": "replace_input",
-        "target": "enderscape:stripped_murublight_hyphae",
-        "replacement": "#enderscape:murublight_stems",
-        "type": "woodworks:sawmill"
-    },
-    {
-        "action": "replace_input",
         "target": "minecraft:stripped_pale_oak_wood",
         "replacement": "#minecraft:pale_oak_logs",
         "type": "woodworks:sawmill"

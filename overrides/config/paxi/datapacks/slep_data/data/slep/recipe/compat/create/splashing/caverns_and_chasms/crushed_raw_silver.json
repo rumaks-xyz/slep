@@ -11,8 +11,8 @@
       "id": "caverns_and_chasms:silver_nugget"
     },
     {
-      "chance": 0.25,
-      "id": "minecraft:glowstone_dust"
+      "chance": 0.5,
+      "id": "caverns_and_chasms:spinel"
     }
   ]
 }

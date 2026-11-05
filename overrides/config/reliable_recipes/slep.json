@@ -1,7 +1,17 @@
 [
     {
         "action": "remove_recipe",
-        "id": "create:crafting/appliances/chain_from_zinc"
+        "id": [
+            "/createdieselgenerators:mixing/.+_concrete/",
+            "electroenergetics:compacting/plant_oil",
+            "create:crafting/appliances/chain_from_zinc"
+        ]
+    },
+    {
+        "action": "replace_input",
+        "id": "create:crafting/appliances/slime_ball",
+        "target": "create:dough",
+        "replacement": "autumnity:snail_goo"
     },
     {
         "action": "replace_output",
@@ -14,22 +24,10 @@
         "replacement": "#c:foods/dough"
     },
     {
-        "action": "replace_output",
-        "target": "create:dough",
-        "replacement": "farmersdelight:wheat_dough"
-    },
-    {
         "action": "replace_input",
         "id": "farmersdelight:wheat_dough_from_egg",
         "target": "#c:crops/wheat",
         "replacement": "#c:flours/wheat"
-    },
-    {
-        "action": "remove_recipe",
-        "id": [
-            "farmersdelight:wheat_dough_from_water",
-            "create:crafting/appliances/slime_ball"
-        ]
     },
     {
         "action": "replace_output",
@@ -38,8 +36,58 @@
     },
     {
         "action": "replace_input",
-        "id": "simulated:redstone_magnet",
+        "id": [
+            "simulated:redstone_magnet",
+            "simulated:redstone_inductor"
+        ],
         "target": "#c:plates/copper",
         "replacement": "electroenergetics:copper_wire_spool"
+    },
+    {
+        "action": "remove_recipe",
+        "id": [
+            "/electroenergetics:crafting/.+_electric_motor/",
+            "electroenergetics:crafting/red_electric_motor_dye"
+        ],
+        "not": {
+            "id": "electroenergetics:crafting/red_electric_motor"
+        }
+    },
+    {
+        "action": "replace_input",
+        "id": "/electroenergetics:crafting/.+_electric_motor_dye/",
+        "target": "#electroenergetics:electric_motors",
+        "replacement": "electroenergetics:red_electric_motor"
+    },
+    {
+        "action": "add_recipe",
+        "id": "electroenergetics:crafting/red_electric_motor",
+        "recipe": {
+            "type": "minecraft:crafting_shaped",
+            "category": "misc",
+            "key": {
+                "C": {
+                    "item": "electroenergetics:connector"
+                },
+                "M": {
+                    "item": "create:andesite_alloy_block"
+                },
+                "R": {
+                    "item": "electroenergetics:commutator"
+                },
+                "c": {
+                    "item": "electroenergetics:copper_wire_spool"
+                }
+            },
+            "pattern": [
+                "   ",
+                "cMc",
+                "CRC"
+            ],
+            "result": {
+                "count": 1,
+                "id": "electroenergetics:red_electric_motor"
+            }
+        }
     }
 ]

@@ -12,3 +12,4 @@ directionalAudio:true
 skipMultiplayerWarning:true
 joinedFirstServer:true
 hideBundleTutorial:true
+renderClouds:"false"

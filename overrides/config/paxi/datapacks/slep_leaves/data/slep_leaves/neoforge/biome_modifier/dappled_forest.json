@@ -1,0 +1,6 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": "minecraft:dappled_forest",
+  "features": "slep_leaves:dappled_forest_fallen_leaves",
+  "step": "vegetal_decoration"
+}

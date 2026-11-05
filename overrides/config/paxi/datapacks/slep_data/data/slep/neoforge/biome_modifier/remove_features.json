@@ -34,7 +34,10 @@
         "atmospheric:trees_rainforest_basin",
         "atmospheric:trees_sparse_rainforest",
         "atmospheric:trees_sparse_rainforest_basin",
+        "upgrade_aquatic:driftwood_extra",
         "upgrade_aquatic:driftwood_ocean",
+        "upgrade_aquatic:driftwood_river",
+        "upgrade_aquatic:driftwood_swamp",
         "wetland_whimsy:fellcap_patch",
         "wetland_whimsy:fellcap_patch_surface"
     ],
