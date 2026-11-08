@@ -1,0 +1,20 @@
+{
+    "values": [
+        {
+            "id": "wetland_whimsy:bald_cypress_cabinet",
+            "required": false
+        },
+        {
+            "id": "windswept_delights:holly_cabinet",
+            "required": false
+        },
+        {
+            "id": "windswept_delights:chestnut_cabinet",
+            "required": false
+        },
+        {
+            "id": "windswept_delights:pine_cabinet",
+            "required": false
+        }
+    ]
+}

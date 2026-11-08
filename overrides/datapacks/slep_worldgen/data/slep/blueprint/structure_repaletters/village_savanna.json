@@ -1,0 +1,13 @@
+{
+  "repaletter": [
+    {
+      "type": "blueprint:simple",
+      "replaces_block": "minecraft:orange_candle",
+      "replaces_with": "dye_depot:ginger_candle"
+    }
+  ],
+  "structures": [
+    "minecraft:village_savanna",
+    "nova_structures:tavern_acacia"
+  ]
+}

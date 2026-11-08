@@ -4,14 +4,9 @@
         "id": [
             "/createdieselgenerators:mixing/.+_concrete/",
             "electroenergetics:compacting/plant_oil",
-            "create:crafting/appliances/chain_from_zinc"
+            "create:crafting/appliances/chain_from_zinc",
+            "create:crafting/appliances/slime_ball"
         ]
-    },
-    {
-        "action": "replace_input",
-        "id": "create:crafting/appliances/slime_ball",
-        "target": "create:dough",
-        "replacement": "autumnity:snail_goo"
     },
     {
         "action": "replace_output",
@@ -44,6 +39,24 @@
         "replacement": "electroenergetics:copper_wire_spool"
     },
     {
+        "action": "replace_input",
+        "id": "simulated:rope_coupling",
+        "target": "#c:strings",
+        "replacement": "farmersdelight:rope"
+    },
+    {
+        "action": "replace_input",
+        "id": "create:crafting/kinetics/steam_engine",
+        "target": "create:andesite_alloy",
+        "replacement": "createdieselgenerators:engine_piston"
+    },
+    {
+        "action": "replace_input",
+        "id": "createdieselgenerators:crafting/oil_scanner",
+        "target": "minecraft:clock",
+        "replacement": "caverns_and_chasms:depth_gauge"
+    },
+    {
         "action": "remove_recipe",
         "id": [
             "/electroenergetics:crafting/.+_electric_motor/",
@@ -58,36 +71,5 @@
         "id": "/electroenergetics:crafting/.+_electric_motor_dye/",
         "target": "#electroenergetics:electric_motors",
         "replacement": "electroenergetics:red_electric_motor"
-    },
-    {
-        "action": "add_recipe",
-        "id": "electroenergetics:crafting/red_electric_motor",
-        "recipe": {
-            "type": "minecraft:crafting_shaped",
-            "category": "misc",
-            "key": {
-                "C": {
-                    "item": "electroenergetics:connector"
-                },
-                "M": {
-                    "item": "create:andesite_alloy_block"
-                },
-                "R": {
-                    "item": "electroenergetics:commutator"
-                },
-                "c": {
-                    "item": "electroenergetics:copper_wire_spool"
-                }
-            },
-            "pattern": [
-                "   ",
-                "cMc",
-                "CRC"
-            ],
-            "result": {
-                "count": 1,
-                "id": "electroenergetics:red_electric_motor"
-            }
-        }
     }
 ]

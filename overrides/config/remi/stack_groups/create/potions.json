@@ -1,0 +1,12 @@
+{
+  "type": "remi:group",
+  "id": "create:potions",
+  "contents": [
+    {
+      "type": "fluid",
+      "id": "create:potion"
+    }
+  ],
+  "registry": "minecraft:fluid",
+  "enabled": true
+}

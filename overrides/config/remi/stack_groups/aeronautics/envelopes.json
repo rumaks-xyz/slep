@@ -1,0 +1,7 @@
+{
+  "type": "remi:tag",
+  "id": "aeronautics:envelopes",
+  "tag": "aeronautics:envelope",
+  "registry": "minecraft:item",
+  "enabled": true
+}

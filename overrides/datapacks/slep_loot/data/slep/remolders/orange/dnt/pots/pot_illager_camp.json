@@ -1,0 +1,9 @@
+{
+  "molding": "json",
+  "remolder": {
+    "type": "replace",
+    "target": "pools[0].entries[8].name",
+    "value": "atmospheric:orange"
+  },
+  "selector": "nova_structures:loot_table/pots/pot_illager_camp"
+}

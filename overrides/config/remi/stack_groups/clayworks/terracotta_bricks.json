@@ -1,0 +1,7 @@
+{
+  "id": "clayworks:terracotta_bricks",
+  "type": "remi:regex",
+  "regex": ".*terracotta_bricks",
+  "registry": "minecraft:item",
+  "enabled": true
+}

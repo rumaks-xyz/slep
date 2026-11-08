@@ -1,0 +1,7 @@
+{
+  "block.createdieselgenerators.burner": "Oil Burner",
+  "createdieselgenerators.ponder.burner.header": "Setting up an Oil Burner",
+  "createdieselgenerators.ponder.burner.text_1": "Oil Burners can provide Heat to items processed in a Basin",
+  "createdieselgenerators.ponder.burner.text_3": "The burner's burn rate can be controlled with a valve",
+  "createdieselgenerators.tooltip.burnerStrength": "Oil Burner Strength: %1$s"
+}

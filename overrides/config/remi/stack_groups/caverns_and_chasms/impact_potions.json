@@ -1,0 +1,12 @@
+{
+  "type": "remi:group",
+  "id": "caverns_and_chasms:impact_potions",
+  "contents": [
+    {
+      "type": "item",
+      "id": "caverns_and_chasms:impact_potion"
+    }
+  ],
+  "registry": "minecraft:item",
+  "enabled": true
+}

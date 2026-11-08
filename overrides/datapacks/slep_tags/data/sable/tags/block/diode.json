@@ -1,0 +1,16 @@
+{
+    "values": [
+        {
+            "id": "create_connected:sequenced_pulse_generator",
+            "required": false
+        },
+        {
+            "id": "caverns_and_chasms:refractor",
+            "required": false
+        },
+        {
+            "id": "caverns_and_chasms:resistor",
+            "required": false
+        }
+    ]
+}

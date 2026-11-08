@@ -1,0 +1,23 @@
+name: Build and publish release
+
+on:
+  push:
+    tags:
+      - v*
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v7
+
+      - name: Create zip archive
+        run: zip -r slep.mrpack . -x ".*"
+
+      - name: Push release
+        uses: softprops/action-gh-release@v1
+        with:
+          files: slep.mrpack

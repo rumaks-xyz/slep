@@ -7,6 +7,10 @@
         {
             "id": "wetland_whimsy:fellcap_mushroom_block",
             "required": false
+        },
+        {
+            "id": "minecraft:shelf_mushroom",
+            "required": false
         }
     ]
 }

@@ -1,0 +1,7 @@
+{
+  "type": "remi:tag",
+  "id": "minecraft:lightning_rods",
+  "tag": "minecraft:lightning_rods",
+  "registry": "minecraft:item",
+  "enabled": true
+}

@@ -37,7 +37,12 @@
             "minecraft:dried_ghast",
             "minecraft:happy_ghast_spawn_egg",
             "minecraft:music_disc_tears",
-            "minecraft:music_disc_bounce"
+            "minecraft:music_disc_bounce",
+            "electroenergetics:converter",
+            "create:copycat_step",
+            "create:copycat_panel",
+            "atmospheric:blood_orange",
+            "rusticdelight:syrup"
         ],
         "patterns": [
             "/wetland_whimsy:.*_brazier/",
@@ -49,6 +54,8 @@
             "/caverns_and_chasms:golden.*bucket/",
             "/caverns_and_chasms:.*toolbox/",
             "/(caverns_and_chasms|dye_the_world):.*glass_(trap)?door/",
+            "/(woodworks|windswept):.+_(bookshelf|ladder|chest|beehive|closet)/",
+            "/(woodworks|windswept|atmospheric|autumnity|caverns_and_chasms|environmental|upgrade_aquatic):.+_boards/",
             "/(atmospheric|abnormals_delight):.*(grimwood|rosewood|laurel|passion).*/",
             "/rusticdelight:.*(pale|dark)_bell_pepper.*/",
             "/rusticdelight:.*bell_pepper.*(orange|white|pink|blue|purple|black).*/",
@@ -57,7 +64,7 @@
             "/upgrade_aquatic:nautilus_.+/",
             "/atmospheric:.*(travertine|dolerite).*/",
             "/(cratedelight|rusticdelight):.+_seeds_bag/",
-            "/minecraft:.*copper_(bars|chain|lantern|chest|sword|shovel|pickaxe|axe|hoe|helmet|chestplate|leggings|boots|horse_armor|golem|torch).*/",
+            "/minecraft:.*copper_(bars|chain|lantern|sword|shovel|pickaxe|axe|hoe|helmet|chestplate|leggings|boots|horse_armor|torch).*/",
             "/minecraft:.+_nautilus_armor/",
             "/minecraft:.+_(wool|concrete)_(slab|stairs)/",
             "/minecraft:.+_cushion/",
@@ -66,7 +73,10 @@
             "/minecraft:creaking_.+/",
             "/(minecraft|dye_the_world):.+_harness/",
             "/minecraft:.*cinnabar.*/",
-            "/minecraft:.*sulfur.*/"
+            "/minecraft:.*sulfur.*/",
+            "/caverns_and_chasms:.+_lightning_rod/",
+            "/caverns_and_chasms:.*copper_golem.*/",
+            "/caverns_and_chasms:.*lift_(button|pressure_plate)/"
         ],
         "effects": [
             "upgrade_aquatic:restfulness",

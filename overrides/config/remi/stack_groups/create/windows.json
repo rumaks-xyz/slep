@@ -1,0 +1,7 @@
+{
+  "id": "create:windows",
+  "type": "remi:regex",
+  "regex": "(create:|everycomp:c/).+_window",
+  "registry": "minecraft:item",
+  "enabled": true
+}

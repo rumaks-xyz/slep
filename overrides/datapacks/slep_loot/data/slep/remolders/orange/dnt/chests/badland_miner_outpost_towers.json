@@ -1,0 +1,9 @@
+{
+  "molding": "json",
+  "remolder": {
+    "type": "replace",
+    "target": "pools[0].entries[4].name",
+    "value": "atmospheric:orange"
+  },
+  "selector": "nova_structures:loot_table/chests/badland_miner_outpost_towers"
+}

@@ -1,0 +1,32 @@
+{
+  "criteria": {
+    "find_orange": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "atmospheric:orange"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "find_orange"
+    ]
+  ],
+  "sends_telemetry_event": true,
+  "parent": "minecraft:husbandry/root",
+  "display": {
+    "icon": {
+      "id": "atmospheric:orange"
+    },
+    "title": "Orange You Glad?",
+    "description": "Find an Orange growing on a Dark Oak Tree",
+    "frame": "task"
+  },
+  "parents": [
+    "minecraft:husbandry/root"
+  ]
+}

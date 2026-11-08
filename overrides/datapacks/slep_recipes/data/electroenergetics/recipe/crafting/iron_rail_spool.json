@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "electroenergetics:empty_spool"
+    },
+    {
+      "tag": "electroenergetics:iron_rail_component"
+    },
+    {
+      "tag": "electroenergetics:iron_rail_component"
+    },
+    {
+      "tag": "electroenergetics:iron_rail_component"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "electroenergetics:iron_rail_spool"
+  }
+}

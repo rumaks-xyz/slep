@@ -1,0 +1,7 @@
+{
+  "type": "remi:tag",
+  "id": "simulated:nameplates",
+  "tag": "simulated:nameplate_items",
+  "registry": "minecraft:item",
+  "enabled": true
+}

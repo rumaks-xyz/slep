@@ -1,0 +1,12 @@
+{
+  "type": "remi:group",
+  "id": "caverns_and_chasms:trail_potions",
+  "contents": [
+    {
+      "type": "item",
+      "id": "caverns_and_chasms:trail_potion"
+    }
+  ],
+  "registry": "minecraft:item",
+  "enabled": true
+}

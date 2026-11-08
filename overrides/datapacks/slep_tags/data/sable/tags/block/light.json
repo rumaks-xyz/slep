@@ -41,6 +41,10 @@
         {
             "id": "#slep:slabs/thatch",
             "required": false
+        },
+        {
+            "id": "autumnity:snail_goo_block",
+            "required": false
         }
     ]
 }

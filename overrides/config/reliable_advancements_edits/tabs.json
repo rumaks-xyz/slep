@@ -2318,6 +2318,12 @@
       "tab": "minecraft:adventure/root",
       "title": "{\"translate\":\"advancement.dnt.adventure.find_tavern.title\",\"fallback\":\"Safe Haven\"}",
       "icon": "minecraft:smoker"
+    },
+    "atmospheric:husbandry/obtain_blood_orange": {
+      "owner": "reliable_advancements:standalone",
+      "tab": "minecraft:husbandry/root",
+      "title": "{\"translate\":\"advancements.atmospheric.husbandry.obtain_blood_orange.title\"}",
+      "icon": "atmospheric:blood_orange"
     }
   },
   "derived_presentation": {

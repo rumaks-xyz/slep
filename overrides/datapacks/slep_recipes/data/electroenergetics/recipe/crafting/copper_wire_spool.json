@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "electroenergetics:empty_spool"
+    },
+    {
+      "tag": "c:wires/copper"
+    },
+    {
+      "tag": "c:wires/copper"
+    },
+    {
+      "tag": "c:wires/copper"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "electroenergetics:copper_wire_spool"
+  }
+}

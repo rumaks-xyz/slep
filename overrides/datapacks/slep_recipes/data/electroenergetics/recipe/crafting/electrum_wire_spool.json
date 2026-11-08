@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "electroenergetics:empty_spool"
+    },
+    {
+      "tag": "c:wires/electrum"
+    },
+    {
+      "tag": "c:wires/electrum"
+    },
+    {
+      "tag": "c:wires/electrum"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "electroenergetics:electrum_wire_spool"
+  }
+}

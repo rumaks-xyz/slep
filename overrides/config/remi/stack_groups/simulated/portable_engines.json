@@ -1,0 +1,7 @@
+{
+  "id": "simulated:portable_engines",
+  "type": "remi:regex",
+  "regex": "simulated:.+_portable_engine",
+  "registry": "minecraft:item",
+  "enabled": true
+}

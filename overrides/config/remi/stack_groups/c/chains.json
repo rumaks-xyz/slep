@@ -1,0 +1,7 @@
+{
+  "type": "remi:tag",
+  "id": "c:chains",
+  "tag": "c:chains",
+  "registry": "minecraft:item",
+  "enabled": true
+}

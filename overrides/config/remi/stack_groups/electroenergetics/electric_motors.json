@@ -1,0 +1,7 @@
+{
+  "type": "remi:tag",
+  "id": "electroenergetics:electric_motors",
+  "tag": "electroenergetics:electric_motors",
+  "registry": "minecraft:item",
+  "enabled": true
+}

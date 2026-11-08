@@ -1,0 +1,15 @@
+{
+  "molding": "json",
+  "remolder": {
+    "type": "remove",
+    "target": "pattern[2]"
+  },
+  "selector": {
+    "type": "names",
+    "config": [
+      "electroenergetics:recipe/crafting/copper_wire",
+      "electroenergetics:recipe/crafting/iron_wire",
+      "electroenergetics:recipe/crafting/electrum_wire"
+    ]
+  }
+}

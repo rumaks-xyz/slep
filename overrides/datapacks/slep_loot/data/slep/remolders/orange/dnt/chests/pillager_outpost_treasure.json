@@ -1,0 +1,9 @@
+{
+  "molding": "json",
+  "remolder": {
+    "type": "replace",
+    "target": "pools[1].entries[7].name",
+    "value": "atmospheric:orange"
+  },
+  "selector": "nova_structures:loot_table/chests/pillager_outpost_treasure"
+}

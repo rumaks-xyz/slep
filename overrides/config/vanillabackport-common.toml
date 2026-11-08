@@ -110,7 +110,7 @@
 	#allow Copper Horse Armor to generate in loot chests
 	has_copper_horse_armor_loot = true
 	#allow Copper Golems to be built using a Carved Pumpkin
-	has_copper_golems = false
+	has_copper_golems = true
 	#minimum ticks before a Copper Golem advances to the next weathering stage
 	# Default: 504000
 	# Range: > 0

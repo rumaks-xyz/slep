@@ -1,0 +1,15 @@
+{
+  "molding": "json",
+  "remolder": {
+    "type": "replace",
+    "target": "results[0].count",
+    "value": 5
+  },
+  "selector": {
+    "type": "names",
+    "config": [
+      "createdieselgenerators:recipe/compat/electroenergetics/copper_wire",
+      "createdieselgenerators:recipe/compat/electroenergetics/iron_wire"
+    ]
+  }
+}

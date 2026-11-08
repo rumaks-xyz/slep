@@ -1,0 +1,7 @@
+{
+  "id": "dye_depot:dye_baskets",
+  "type": "remi:regex",
+  "regex": "dye_depot:.+_dye_basket",
+  "registry": "minecraft:item",
+  "enabled": true
+}

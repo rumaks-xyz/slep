@@ -2,6 +2,10 @@
     "values": [
         "minecraft:magma_block",
         {
+            "id": "create:industrial_iron_block",
+            "required": false
+        },
+        {
             "id": "windswept:dry_mossy_cobblestone",
             "required": false
         },

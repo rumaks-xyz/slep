@@ -1,0 +1,7 @@
+{
+  "id": "clayworks:decorated_pots",
+  "type": "remi:regex",
+  "regex": ".*decorated_pot",
+  "registry": "minecraft:item",
+  "enabled": true
+}

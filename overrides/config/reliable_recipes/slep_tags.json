@@ -8,5 +8,58 @@
             "upgrade_aquatic:driftwood_log",
             "upgrade_aquatic:driftwood"
         ]
+    },
+    {
+        "action": "remove_from_tag",
+        "tag": "sable:super_heavy",
+        "id": [
+            "minecraft:hay_block",
+            "minecraft:dried_kelp_block",
+            "/(farmersdelight|cratedelight|mynethersdelight|rusticdelight|environmental|atmospheric|upgrade_aquatic|incubation|windswept|autumnity|berry_good):.*/"
+        ]
+    },
+    {
+        "action": "add_to_tag",
+        "tag": "minecraft:stairs",
+        "id": "/.+_stairs/"
+    },
+    {
+        "action": "add_to_tag",
+        "tag": "minecraft:slabs",
+        "id": "/.+_slab/"
+    },
+    {
+        "action": "add_to_tag",
+        "tag": "minecraft:fences",
+        "id": "/.+_fence/"
+    },
+    {
+        "action": "add_to_tag",
+        "tag": "minecraft:fence_gates",
+        "id": "/.+_fence_gate/"
+    },
+    {
+        "action": "add_to_tag",
+        "tag": "minecraft:walls",
+        "id": "/.+_wall/"
+    },
+    {
+        "action": "add_to_tag",
+        "tags": [
+            "slep:bars",
+            "sable:quarter_volume"
+        ],
+        "id": "/.+_bars/"
+    },
+    {
+        "action": "add_to_tag",
+        "tag": "c:glazed_terracottas",
+        "id": "/.*glazed_terracotta/"
+    },
+    {
+        "action": "clear_tag",
+        "tags": [
+            "caverns_and_chasms:copper_golem_summon_blocks"
+        ]
     }
 ]

@@ -1,0 +1,9 @@
+{
+  "molding": "json",
+  "remolder": {
+    "type": "replace",
+    "target": "pools[2].entries[0].name",
+    "value": "atmospheric:orange"
+  },
+  "selector": "minecraft:loot_table/blocks/dark_oak_leaves"
+}

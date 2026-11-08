@@ -1,4 +1,4 @@
-resourcePacks:["vanilla","mod_resources","fabric","moonlight:merged_pack","file/DerpWood.zip","file/ModdedGalleryCompat1.21.1-1.6.zip","file/VanillaTweaks.zip","file/slep resources","file/Fast Better Grass.zip","file/Fast Better Grass - slep mod compats"]
+resourcePacks:["vanilla","mod_resources","fabric","moonlight:merged_pack","file/DerpWood.zip","file/VanillaTweaks.zip","file/slep resources","file/Consistent Redstone Item Models","file/Fast Better Grass.zip","file/Fast Better Grass - mod compats"]
 incompatibleResourcePacks:["file/DerpWood.zip"]
 lang:en_us
 tutorialStep:none

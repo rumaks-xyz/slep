@@ -1,5 +1,6 @@
 {
     "values": [
+        "#c:chains",
         {
             "id": "#slep:stairs/mosaic",
             "required": false

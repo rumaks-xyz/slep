@@ -1,0 +1,7 @@
+{
+  "id": "electroenergetics:electrical_panels",
+  "type": "remi:regex",
+  "regex": "electroenergetics:.*electrical_panel",
+  "registry": "minecraft:item",
+  "enabled": true
+}
