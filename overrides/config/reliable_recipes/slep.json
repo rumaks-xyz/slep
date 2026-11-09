@@ -5,7 +5,12 @@
             "/createdieselgenerators:mixing/.+_concrete/",
             "electroenergetics:compacting/plant_oil",
             "create:crafting/appliances/chain_from_zinc",
-            "create:crafting/appliances/slime_ball"
+            "create:crafting/appliances/slime_ball",
+            "farmersdelight:wheat_dough_from_water",
+            "minecraft:scaffolding",
+            "farmersdelight:scaffolding_from_canvas",
+            "create:crafting/materials/copper_ingot",
+            "caverns_and_chasms:bundle"
         ]
     },
     {
@@ -23,6 +28,12 @@
         "id": "farmersdelight:wheat_dough_from_egg",
         "target": "#c:crops/wheat",
         "replacement": "#c:flours/wheat"
+    },
+    {
+        "action": "replace_input",
+        "id": "create:crafting/appliances/dough",
+        "target": "minecraft:water_bucket",
+        "replacement": "#c:buckets/water"
     },
     {
         "action": "replace_output",
@@ -55,6 +66,15 @@
         "id": "createdieselgenerators:crafting/oil_scanner",
         "target": "minecraft:clock",
         "replacement": "caverns_and_chasms:depth_gauge"
+    },
+    {
+        "action": "replace_input",
+        "id": [
+            "minecraft:stonecutter",
+            "woodworks:sawmill"
+        ],
+        "target": "#c:ingots/iron",
+        "replacement": "#c:plates/iron"
     },
     {
         "action": "remove_recipe",

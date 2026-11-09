@@ -20,6 +20,11 @@
     },
     {
         "action": "add_to_tag",
+        "tag": "c:stripped_woods",
+        "id": "/.+:stripped_.+_(log|wood|stem|hyphae)/"
+    },
+    {
+        "action": "add_to_tag",
         "tag": "minecraft:stairs",
         "id": "/.+_stairs/"
     },
@@ -61,5 +66,10 @@
         "tags": [
             "caverns_and_chasms:copper_golem_summon_blocks"
         ]
+    },
+    {
+        "action": "add_to_tag",
+        "tag": "minecraft:lightning_rods",
+        "id": "/caverns_and_chasms:.+_lightning_rod/"
     }
 ]

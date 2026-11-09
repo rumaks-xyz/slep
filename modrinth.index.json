@@ -306,6 +306,21 @@
         },
         {
             "downloads": [
+                "https://cdn.modrinth.com/data/EGcZ28rZ/versions/wojSeAAv/SableAssemblyFix-1.0.0.jar"
+            ],
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "fileSize": 32287,
+            "hashes": {
+                "sha1": "e00082bf9152d5468ae1f51e93bf3d97af99ca19",
+                "sha512": "d84214665a489c1fb51dc3c37e8f9c1b73e1102bcfddf0f38e14e7a5dd7a9edb47041ceebfdb7db042d27222731c364df74e1317b6cfe16a3c490674765bdd43"
+            },
+            "path": "mods/SableAssemblyFix-1.0.0.jar"
+        },
+        {
+            "downloads": [
                 "https://cdn.modrinth.com/data/iJNje1E8/versions/ovvhJCXR/SnowRealMagic-1.21.1-NeoForge-12.2.5.jar"
             ],
             "env": {
@@ -396,18 +411,18 @@
         },
         {
             "downloads": [
-                "https://cdn.modrinth.com/data/wjpmYU1u/versions/wsXjRa7l/aerocopycats-1.1.1.jar"
+                "https://cdn.modrinth.com/data/ZGxtWu73/versions/UbgVQ0qd/aero_cam_sync-1.4.0.jar"
             ],
             "env": {
                 "client": "required",
                 "server": "required"
             },
-            "fileSize": 14702,
+            "fileSize": 912604,
             "hashes": {
-                "sha1": "3a93862421d0a8cdae1e3a3d7f0d4bd01e049007",
-                "sha512": "4f48c03a25a6f4ec022398cece20e5aa8d51f00951a0f568980e6e5419c1af2f12c8bb652500721afef119ecc455e4c5b1bc4bb7bef38d88846759f0e4c39e8c"
+                "sha1": "d2abb5fee04cfc0b71aace1cba9fd426e49babf4",
+                "sha512": "0af37dcf2d90c262858d07861243c0800a2aa72254a18eacf093de9a07cdaa5a51f9cfd9ca5f32a7efccf9a0936cfcda0ee9fbbb252b00377db21a3af6dffb4b"
             },
-            "path": "mods/aerocopycats-1.1.1.jar"
+            "path": "mods/aero_cam_sync-1.4.0.jar"
         },
         {
             "downloads": [
@@ -1446,18 +1461,18 @@
         },
         {
             "downloads": [
-                "https://cdn.modrinth.com/data/twkfQtEc/versions/drG7quQp/moonlight-1.21.1-3.8.2-neoforge.jar"
+                "https://cdn.modrinth.com/data/twkfQtEc/versions/yBea1yLM/moonlight-1.21.1-3.8.3-neoforge.jar"
             ],
             "env": {
                 "client": "required",
                 "server": "required"
             },
-            "fileSize": 2328918,
+            "fileSize": 2327347,
             "hashes": {
-                "sha1": "dc647f8c076592247c96cdca4cbcbdfdd5340b2a",
-                "sha512": "5f302a14dda26af113bb8397888c24af60e39f765680e50897d9594c05688a2e8e31c33df167a4317f3ef59a02c01a7a9d4878bb858128bf7ce11871cc4e2064"
+                "sha1": "046821d548a1269164c792bab46d55798085c285",
+                "sha512": "7b6479af8052419080bb1f5d28742daeef38a62bf33f2b47b70a1dafb01a06afd485cbc22e9f95c210e72b62364b96f539257dc8e03f5631a586ee9c4b5121bf"
             },
-            "path": "mods/moonlight-1.21.1-3.8.2-neoforge.jar"
+            "path": "mods/moonlight-1.21.1-3.8.3-neoforge.jar"
         },
         {
             "downloads": [
@@ -1851,6 +1866,21 @@
         },
         {
             "downloads": [
+                "https://cdn.modrinth.com/data/PtjYWJkn/versions/T819dLGI/sodium-extra-neoforge-0.9.5%2Bmc1.21.1.jar"
+            ],
+            "env": {
+                "client": "required",
+                "server": "unsupported"
+            },
+            "fileSize": 483373,
+            "hashes": {
+                "sha1": "6ca433df0ad08ce8413582e75dcae7619414a068",
+                "sha512": "1f213565e110e39a3e70ce5327f31448b301d2365f7ea281e06535169fd088f7d635370db7417adc927b1278eaefd75c77def7519395408ed0f86f6be240c076"
+            },
+            "path": "mods/sodium-extra-neoforge-0.9.5+mc1.21.1.jar"
+        },
+        {
+            "downloads": [
                 "https://cdn.modrinth.com/data/AANobbMI/versions/uMOpc5uV/sodium-neoforge-0.8.13%2Bmc1.21.1.jar"
             ],
             "env": {
@@ -2118,11 +2148,26 @@
                 "sha512": "cc3641e82595f3e72f3075e7c5647fa4d65188c1d9e498be42e8169a03ccd71907fcb625d5ad51a9e8aabcd41e2ab56ec1e4f3be19dfdadff6c06c7736ae915c"
             },
             "path": "resourcepacks/Fast Better Grass.zip"
+        },
+        {
+            "downloads": [
+                "https://cdn.modrinth.com/data/h1XaRPDH/versions/9vWDGhLQ/dynamic-rain-shader_0.1.2_1.21.4.zip"
+            ],
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "fileSize": 18046,
+            "hashes": {
+                "sha1": "d279f84d1388771e3bd18a29ddc62fec5e3baf2d",
+                "sha512": "6ecdc4ee74296720e3cc5b46e608bc152168a83eea264539cfdd25924f6325a3a7a81bbcffce6a577bdcd5b4848a982b38d422c95874973c4f314de13a6ecf8a"
+            },
+            "path": "resourcepacks/dynamic-rain-shader_0.1.2_1.21.4.zip"
         }
     ],
     "formatVersion": 1,
     "game": "minecraft",
     "name": "slep",
-    "versionId": "0.3.0"
+    "versionId": "0.3.1"
 }
 

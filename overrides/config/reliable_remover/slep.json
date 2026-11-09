@@ -74,7 +74,7 @@
             "/(minecraft|dye_the_world):.+_harness/",
             "/minecraft:.*cinnabar.*/",
             "/minecraft:.*sulfur.*/",
-            "/caverns_and_chasms:.+_lightning_rod/",
+            "/minecraft:.+_lightning_rod/",
             "/caverns_and_chasms:.*copper_golem.*/",
             "/caverns_and_chasms:.*lift_(button|pressure_plate)/"
         ],
