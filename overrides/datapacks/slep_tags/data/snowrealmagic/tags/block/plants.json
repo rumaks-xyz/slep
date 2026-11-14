@@ -15,6 +15,11 @@
     ],
     "remove": [
         "minecraft:light",
-        "minecraft:structure_void"
+        "minecraft:structure_void",
+        "minecraft:snow",
+        "minecraft:chorus_flower",
+        "minecraft:spore_blossom",
+        "supplementaries:ash",
+        "supplementaries:barnacles"
     ]
 }

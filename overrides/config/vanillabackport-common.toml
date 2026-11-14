@@ -128,7 +128,7 @@
 	#allow Copper Armor, Weapons and Tools to be obtainable
 	has_copper_toolset = false
 	#allow Weathering Lightning Rods to be obtainable
-	has_weathering_lightning_rods = true
+	has_weathering_lightning_rods = false
 
 ["Mounts of Mayhem"]
 	#allow Parched Skeletons to spawn naturally

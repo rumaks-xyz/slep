@@ -1,0 +1,35 @@
+{
+  "schema_version": "2",
+  "default_packs": [
+    "vanilla",
+    "mod_resources",
+    "fabric",
+    "moonlight:merged_pack",
+    "mod/culturaldelights:resourcepacks/retextured_stove",
+    "mod/culturaldelights:resourcepacks/apple_juice",
+    "mod/culturaldelights:resourcepacks/supplementaries",
+    "file/DerpWood.zip",
+    "file/slep resources",
+    "file/VanillaTweaks.zip",
+    "file/Supplementaries Touch-Ups v0.2.zip",
+    "file/Consistent Redstone Item Models",
+    "file/Fast Better Grass.zip",
+    "file/Fast Better Grass - mod compats"
+  ],
+  "default_overrides": {
+    "fixed_position": true,
+    "default_position": "BOTTOM"
+  },
+  "pack_overrides": {
+    "slep_builtin": [
+      "file/slep resources",
+      "file/DerpWood.zip"
+    ],
+    "$$slep_builtin": {
+      "required": true,
+      "force_compatible": true,
+      "fixed_position": true,
+      "default_position": "BOTTOM"
+    }
+  }
+}

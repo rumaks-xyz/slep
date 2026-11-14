@@ -1,0 +1,24 @@
+{
+    "values": [
+        {
+            "id": "culturaldelights:beans",
+            "required": false
+        },
+        {
+            "id": "culturaldelights:budding_beans",
+            "required": false
+        },
+        {
+            "id": "culturaldelights:stick_beans",
+            "required": false
+        },
+        {
+            "id": "culturaldelights:rope_beans",
+            "required": false
+        }
+    ],
+    "remove": [
+        "wetland_whimsy:pennywort",
+        "wetland_whimsy:cordgrass"
+    ]
+}

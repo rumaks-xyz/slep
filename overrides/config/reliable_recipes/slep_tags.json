@@ -71,5 +71,36 @@
         "action": "add_to_tag",
         "tag": "minecraft:lightning_rods",
         "id": "/caverns_and_chasms:.+_lightning_rod/"
+    },
+    {
+        "action": "remove_from_tag",
+        "tag": "sable:light",
+        "id": "upgrade_aquatic:beachgrass_thatch"
+    },
+    {
+        "action": "remove_from_tag",
+        "tag": "sable:super_light",
+        "id": [
+            "upgrade_aquatic:beachgrass_thatch_slab",
+            "upgrade_aquatic:beachgrass_thatch_stairs"
+        ]
+    },
+    {
+        "action": "add_to_tag",
+        "tag": "c:foods/squid",
+        "id": "/culturaldelights:.*squid/"
+    },
+    {
+        "action": "add_to_tag",
+        "tag": "rusticdelight:cooking_oil_ingredients",
+        "id": [
+            "minecraft:sunflower",
+            "culturaldelights:corn_kernels"
+        ]
+    },
+    {
+        "action": "add_to_tag",
+        "tag": "c:ingots",
+        "id": "/caverns_and_chasms:(waxed_)?oxidized_copper_ingot/"
     }
 ]

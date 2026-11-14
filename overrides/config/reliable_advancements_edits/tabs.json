@@ -2,6 +2,11 @@
   "version": 1,
   "tabs": {
     "minecraft:story/root": {
+      "background": "minecraft:textures/gui/advancements/backgrounds/stone.png",
+      "index": 0,
+      "roots": [
+        "minecraft:story/root"
+      ],
       "positions": {
         "minecraft:story/iron_tools": [
           128,
@@ -70,6 +75,10 @@
         "minecraft:story/enter_the_nether": [
           192,
           0
+        ],
+        "supplementaries:story/unenchanter": [
+          224,
+          -64
         ]
       }
     },
@@ -95,8 +104,8 @@
           638
         ],
         "minecraft:adventure/avoid_vibration": [
-          -113,
-          745
+          -163,
+          755
         ],
         "caverns_and_chasms:adventure/bejeweled_anvil_repair": [
           -70,
@@ -159,16 +168,16 @@
           605
         ],
         "minecraft:adventure/summon_iron_golem": [
-          -21,
-          863
+          -45,
+          868
         ],
         "caverns_and_chasms:adventure/ricochet_hit_yourself": [
           -68,
           520
         ],
         "caverns_and_chasms:adventure/tune_a_fish": [
-          -70,
-          900
+          -80,
+          913
         ],
         "caverns_and_chasms:adventure/open_large_storage_duct": [
           8,
@@ -179,8 +188,8 @@
           881
         ],
         "minecraft:adventure/trim_with_all_exclusive_armor_patterns": [
-          -103,
-          832
+          -128,
+          823
         ],
         "minecraft:adventure/very_very_frightening": [
           199,
@@ -211,12 +220,12 @@
           646
         ],
         "minecraft:adventure/lightning_rod_with_villager_no_fire": [
-          37,
-          953
+          21,
+          950
         ],
         "minecraft:adventure/voluntary_exile": [
-          -76,
-          795
+          -100,
+          778
         ],
         "upgrade_aquatic:adventure/kill_great_thrasher": [
           201,
@@ -227,8 +236,8 @@
           823
         ],
         "minecraft:adventure/spyglass_at_parrot": [
-          3,
-          967
+          -13,
+          947
         ],
         "galosphere:adventure/find_pink_salt_shrine": [
           29,
@@ -279,16 +288,16 @@
           491
         ],
         "minecraft:adventure/spyglass_at_dragon": [
-          65,
-          1001
+          40,
+          1014
         ],
         "caverns_and_chasms:husbandry/use_unicorn_horn": [
           -142,
           727
         ],
         "minecraft:adventure/trade_at_world_height": [
-          -57,
-          863
+          -68,
+          843
         ],
         "atmospheric:adventure/dunes_pricks": [
           -36,
@@ -319,8 +328,8 @@
           505
         ],
         "minecraft:adventure/hero_of_the_village": [
-          -111,
-          803
+          -137,
+          795
         ],
         "caverns_and_chasms:adventure/dont_move": [
           63,
@@ -351,12 +360,12 @@
           772
         ],
         "caverns_and_chasms:adventure/use_tuning_fork": [
-          -35,
-          910
+          -46,
+          903
         ],
         "caverns_and_chasms:adventure/dismantle_item": [
-          -91,
-          864
+          -99,
+          842
         ],
         "buzzier_bees:adventure/four_leaf_clover": [
           81,
@@ -367,28 +376,28 @@
           723
         ],
         "minecraft:nether/use_lodestone": [
-          -85,
-          765
+          -133,
+          767
         ],
         "minecraft:adventure/whos_the_pillager_now": [
           98,
           754
         ],
         "minecraft:adventure/trade": [
-          -34,
-          825
+          -47,
+          807
         ],
         "minecraft:adventure/spyglass_at_ghast": [
-          31,
-          989
+          6,
+          983
         ],
         "minecraft:adventure/trim_with_any_armor_pattern": [
-          -64,
-          823
+          -94,
+          807
         ],
         "caverns_and_chasms:adventure/summon_copper_golem": [
-          -37,
-          972
+          -49,
+          941
         ],
         "minecraft:adventure/walk_on_powder_snow_with_leather_boots": [
           28,
@@ -423,8 +432,8 @@
           711
         ],
         "caverns_and_chasms:adventure/smelt_copper": [
-          0,
-          936
+          -11,
+          899
         ],
         "caverns_and_chasms:adventure/thunderstruck": [
           -47,
@@ -549,6 +558,18 @@
         "nova_structures:adventure/find_trident_trial_monument": [
           128,
           459
+        ],
+        "supplementaries:adventure/road_sign": [
+          17,
+          649
+        ],
+        "supplementaries:adventure/globe": [
+          -24,
+          841
+        ],
+        "supplementaries:adventure/cannon": [
+          8,
+          853
         ]
       }
     },
@@ -706,6 +727,10 @@
         "nova_structures:nether/find_skeleton_tower": [
           6,
           0
+        ],
+        "supplementaries:nether/goblet": [
+          120,
+          154
         ]
       }
     },
@@ -797,20 +822,20 @@
           46
         ],
         "minecraft:end/levitate": [
-          108,
-          -19
+          124,
+          -3
         ],
         "minecraft:end/elytra": [
-          176,
-          0
+          138,
+          35
         ],
         "enderscape:unlock_end_vault": [
           137,
           9
         ],
         "minecraft:end/find_end_city": [
-          99,
-          15
+          101,
+          32
         ],
         "minecraft:end/enter_end_gateway": [
           66,
@@ -1483,8 +1508,8 @@
           141
         ],
         "farmersdelight:main/get_rich_soil": [
-          136,
-          67
+          135,
+          76
         ],
         "farmersdelight:main/place_skillet": [
           110,
@@ -1495,20 +1520,20 @@
           130
         ],
         "farmersdelight:main/craft_knife": [
-          33,
-          73
+          35,
+          76
         ],
         "farmersdelight:main/obtain_netherite_knife": [
-          75,
-          29
+          41,
+          -7
         ],
         "farmersdelight:main/plant_rice": [
-          -46,
-          68
+          -47,
+          74
         ],
         "farmersdelight:main/get_ham": [
-          -2,
-          49
+          6,
+          45
         ],
         "farmersdelight:main/root": [
           -3,
@@ -1519,8 +1544,8 @@
           139
         ],
         "farmersdelight:main/plant_all_crops": [
-          -61,
-          31
+          -70,
+          43
         ],
         "farmersdelight:main/use_cutting_board": [
           36,
@@ -1539,8 +1564,8 @@
           83
         ],
         "farmersdelight:main/place_organic_compost": [
-          101,
-          59
+          102,
+          64
         ],
         "farmersdelight:main/use_skillet": [
           76,
@@ -1581,6 +1606,38 @@
         "brewinandchewin:main/crafting_problem": [
           37,
           178
+        ],
+        "culturaldelights:main/vat": [
+          0,
+          129
+        ],
+        "culturaldelights:main/beanstalk": [
+          -23,
+          51
+        ],
+        "culturaldelights:main/salt": [
+          68,
+          31
+        ],
+        "culturaldelights:main/acid": [
+          39,
+          142
+        ],
+        "culturaldelights:main/cheesy": [
+          28,
+          172
+        ],
+        "culturaldelights:main/intoxication": [
+          -37,
+          145
+        ],
+        "culturaldelights:main/max_intoxication": [
+          -71,
+          161
+        ],
+        "culturaldelights:main/pickle": [
+          -5,
+          165
         ]
       }
     },
@@ -1858,6 +1915,26 @@
         "environmental:husbandry/throw_mud_at_pig": [
           32,
           421
+        ],
+        "supplementaries:husbandry/soap": [
+          40,
+          660
+        ],
+        "supplementaries:husbandry/wrench": [
+          32,
+          823
+        ],
+        "supplementaries:husbandry/angry_birds": [
+          -140,
+          288
+        ],
+        "supplementaries:husbandry/turn_table": [
+          32,
+          769
+        ],
+        "supplementaries:husbandry/sus_stew": [
+          64,
+          351
         ]
       }
     },
@@ -2324,6 +2401,30 @@
       "tab": "minecraft:husbandry/root",
       "title": "{\"translate\":\"advancements.atmospheric.husbandry.obtain_blood_orange.title\"}",
       "icon": "atmospheric:blood_orange"
+    },
+    "supplementaries:husbandry/soap": {
+      "owner": "reliable_advancements:standalone",
+      "tab": "minecraft:husbandry/root",
+      "title": "{\"translate\":\"advancements.husbandry.soap.title\"}",
+      "icon": "supplementaries:soap"
+    },
+    "supplementaries:husbandry/turn_table": {
+      "owner": "reliable_advancements:standalone",
+      "tab": "minecraft:husbandry/root",
+      "title": "{\"translate\":\"advancements.husbandry.turn_table.title\"}",
+      "icon": "supplementaries:turn_table"
+    },
+    "supplementaries:husbandry/wrench": {
+      "owner": "reliable_advancements:standalone",
+      "tab": "minecraft:husbandry/root",
+      "title": "{\"translate\":\"advancements.husbandry.wrench.title\"}",
+      "icon": "supplementaries:wrench"
+    },
+    "supplementaries:story/unenchanter": {
+      "owner": "reliable_advancements:standalone",
+      "tab": "minecraft:story/root",
+      "title": "{\"translate\":\"advancements.story.unenchanter.title\"}",
+      "icon": "minecraft:enchanted_golden_apple"
     }
   },
   "derived_presentation": {
@@ -2346,6 +2447,11 @@
       "title": "YUNG\u0027s Better Dungeons",
       "icon": "minecraft:mossy_stone_bricks",
       "background": "minecraft:textures/block/stone_bricks.png"
+    },
+    "dungeonsdelight:main/root": {
+      "title": "Dungeon\u0027s Delight",
+      "icon": "dungeonsdelight:monster_pot",
+      "background": "dungeonsdelight:textures/block/wormwood_planks.png"
     }
   }
 }

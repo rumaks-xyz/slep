@@ -10,7 +10,10 @@
             "minecraft:scaffolding",
             "farmersdelight:scaffolding_from_canvas",
             "create:crafting/materials/copper_ingot",
-            "caverns_and_chasms:bundle"
+            "caverns_and_chasms:bundle",
+            "culturaldelights:sunflower_oil",
+            "supplementaries:rope_2",
+            "supplementaries:cannon"
         ]
     },
     {
@@ -51,9 +54,14 @@
     },
     {
         "action": "replace_input",
+        "target": "farmersdelight:rope",
+        "replacement": "#c:ropes"
+    },
+    {
+        "action": "replace_input",
         "id": "simulated:rope_coupling",
         "target": "#c:strings",
-        "replacement": "farmersdelight:rope"
+        "replacement": "#c:ropes"
     },
     {
         "action": "replace_input",
@@ -91,5 +99,53 @@
         "id": "/electroenergetics:crafting/.+_electric_motor_dye/",
         "target": "#electroenergetics:electric_motors",
         "replacement": "electroenergetics:red_electric_motor"
+    },
+    {
+        "action": "replace_input",
+        "id": "minersdelight:squid_sandwich",
+        "target": "#c:foods/cooked_squid",
+        "replacement": "culturaldelights:cooked_squid"
+    },
+    {
+        "action": "replace_input",
+        "target": "rusticdelight:cooking_oil",
+        "replacement": "#c:cooking_oil"
+    },
+    {
+        "action": "replace_output",
+        "id": "rusticdelight:cooking/cooking_oil",
+        "replacement": "culturaldelights:cooking_oil"
+    },
+    {
+        "action": "replace_input",
+        "target": "culturaldelights:agave",
+        "replacement": "atmospheric:agave"
+    },
+    {
+        "action": "replace_input",
+        "id": "supplementaries:slingshot",
+        "target": "minecraft:rabbit_hide",
+        "replacement": "minecraft:leather"
+    },
+    {
+        "action": "replace_input",
+        "id": [
+            "supplementaries:candy",
+            "windswept_delights:snow_cone"
+        ],
+        "target": "minecraft:honey_bottle",
+        "replacement": "#rusticdelight:sweet_liquids"
+    },
+    {
+        "action": "replace_input",
+        "id": "windswept:minty_snow_cone",
+        "target": "windswept:lavender",
+        "replacement": "culturaldelights:mint"
+    },
+    {
+        "action": "replace_input",
+        "id": "create:crafting/schematics/schematicannon",
+        "target": "minecraft:dispenser",
+        "replacement": "supplementaries:cannon"
     }
 ]

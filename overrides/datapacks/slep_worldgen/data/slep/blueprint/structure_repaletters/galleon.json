@@ -1,0 +1,12 @@
+{
+  "repaletter": [
+    {
+      "type": "blueprint:simple",
+      "replaces_block": "supplementaries:cage",
+      "replaces_with": "minecraft:air"
+    }
+  ],
+  "structures": [
+    "supplementaries:galleon"
+  ]
+}

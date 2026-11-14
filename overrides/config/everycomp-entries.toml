@@ -45,6 +45,9 @@
 			chestnut = true
 			pine = true
 
+		[types.wood_type.culturaldelights]
+			beanstalk = false
+
 		[types.leaves_type.atmospheric]
 			rosewood = false
 			morado = true
@@ -95,6 +98,12 @@
 			pine = true
 			flowering_acacia = true
 
+		[types.leaves_type.culturaldelights]
+			avocado = true
+			fruiting_avocado = true
+			lemon = true
+			fruiting_lemon = true
+
 		[entries.wood_type.create]
 			window = true
 			window_pane = true
@@ -115,6 +124,10 @@
 			closet = false
 			ladder = false
 			beehive = false
+
+		[entries.wood_type.boatload]
+			large_boat = true
+			furnace_boat = false
 
 		[entries.leaves_type.woodworks]
 			leaf_pile = true

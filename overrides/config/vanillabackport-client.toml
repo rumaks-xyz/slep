@@ -18,7 +18,7 @@
 	#enable modern redstone torch models (also effects repeaters and comparators)
 	has_modern_redstone_torch_models = false
 	#enable modern banner pattern textures
-	has_modern_banner_pattern_textures = true
+	has_modern_banner_pattern_textures = false
 
 ["Chase the Skies"]
 	#enable the Locator Bar; disabling it on your client does not make you invisible on the server

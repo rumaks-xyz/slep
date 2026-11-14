@@ -1,0 +1,5 @@
+key_supplementaries.keybind.quiver:key.keyboard.r:
+key_key.disable_voice_chat:key.keyboard.n:CONTROL
+key_key.hide_icons:key.keyboard.h:CONTROL
+key_key.voice_chat_group:key.keyboard.g:CONTROL
+key_create_mobile_packages.keyinfo.open_player_networks_screen:key.keyboard.n:

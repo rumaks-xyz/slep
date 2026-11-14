@@ -5,5 +5,9 @@
         "distance_chunks": -1
       }
     }
+  },
+  "extra_settings": {
+    "cloud_height_override": true,
+    "cloud_height": 319
   }
 }

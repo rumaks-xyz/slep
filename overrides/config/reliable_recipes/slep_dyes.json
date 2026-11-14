@@ -48,7 +48,8 @@
     {
         "action": "replace_output",
         "id": [
-            "atmospheric:cyan_dye_from_agave"
+            "atmospheric:cyan_dye_from_agave",
+            "atmospheric:cyan_dye_from_baking"
         ],
         "replacement": "dye_depot:teal_dye"
     },

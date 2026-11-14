@@ -1,0 +1,14 @@
+enableVsync:false
+entityShadows:false
+fov:0.5
+guiScale:3
+maxFps:160
+renderDistance:8
+simulationDistance:8
+directionalAudio:true
+darkMojangStudiosBackground:true
+tutorialStep:none
+skipMultiplayerWarning:true
+joinedFirstServer:true
+hideBundleTutorial:true
+soundCategory_music:0.0

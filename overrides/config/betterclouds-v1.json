@@ -1,0 +1,155 @@
+{
+	"bottomSparsity": 0.0,
+	"migrationVersion": 0,
+	"enabled": true,
+	"distance": 40.0,
+	"randomPlacement": 1.0,
+	"fuzziness": 0.8,
+	"yRange": 64.0,
+	"yOffset": 0.0,
+	"timeSource": "WORLD",
+	"sparsity": 0.65,
+	"spacing": 5.25,
+	"sizeXZ": 36.0,
+	"sizeY": 24.0,
+	"travelSpeed": 0.1,
+	"windEffectFactor": 1.0,
+	"windSpeedFactor": 0.15,
+	"colorVariationFactor": 1.0,
+	"celestialBodyHalo": true,
+	"chunkSize": 32,
+	"samplingScale": 4.0,
+	"scaleFalloffMin": 0.25,
+	"fogRangeFactor": 1.0,
+	"fogEndFactor": 1.0,
+	"usePersistentBuffers": true,
+	"useSamplerCaching": true,
+	"useFrustumCulling": true,
+	"irisSupport": true,
+	"selectedNoisePreset": 2,
+	"cloudOverride": true,
+	"useIrisFBO": true,
+	"selectedPreset": 0,
+	"presets": [],
+	"noisePresets": [
+		{
+			"octaves": [
+				[
+					-1,
+					0,
+					1,
+					2
+				],
+				[
+					-3,
+					-1,
+					0,
+					1,
+					2
+				],
+				[
+					-2,
+					0,
+					1,
+					2
+				],
+				[
+					0,
+					1,
+					2
+				]
+			],
+			"title": "Default",
+			"key": "default",
+			"description": "Varied patches of clouds. Creates different cloud patterns every day!",
+			"editable": false
+		},
+		{
+			"octaves": [
+				[
+					0,
+					1,
+					2
+				]
+			],
+			"title": "Dotted",
+			"key": "dotted",
+			"description": "Many patches of small clouds, with medium holes of clear sky",
+			"editable": false
+		},
+		{
+			"octaves": [
+				[
+					-1,
+					0,
+					1,
+					2
+				]
+			],
+			"title": "Fluffy",
+			"key": "fluffy",
+			"description": "The old, fluffy clouds from 1.12.x Better Clouds",
+			"editable": false
+		},
+		{
+			"octaves": [
+				[
+					-3,
+					-1,
+					0,
+					1,
+					2
+				]
+			],
+			"title": "Grand",
+			"key": "sparse",
+			"description": "Grand, vast fields of clouds. May be too performance-heavy on high render distance.",
+			"editable": false
+		},
+		{
+			"octaves": [
+				[
+					-2,
+					0,
+					1,
+					2
+				]
+			],
+			"title": "Medium",
+			"key": "medium",
+			"description": "Medium-sized heaps of clouds, with fields of clear sky",
+			"editable": false
+		}
+	],
+	"lastTelemetryVersion": 0,
+	"gpuIncompatibleMessageEnabled": true,
+	"issueReportEnabled": true,
+	"cloudsDisabledMessageEnabled": true,
+	"enabledDimensions": [
+		"minecraft:overworld",
+		"bigglobe:overworld",
+		"me:middle_earth_type"
+	],
+	"sereneSeasonsConfig": {
+		"transition_days": 2.0,
+		"early_spring_cloudiness": 1.2,
+		"mid_spring_cloudiness": 1.0,
+		"late_spring_cloudiness": 0.9,
+		"early_summer_cloudiness": 0.8,
+		"mid_summer_cloudiness": 0.7,
+		"late_summer_cloudiness": 0.8,
+		"early_autumn_cloudiness": 0.9,
+		"mid_autumn_cloudiness": 1.0,
+		"late_autumn_cloudiness": 1.2,
+		"early_winter_cloudiness": 1.3,
+		"mid_winter_cloudiness": 1.4,
+		"late_winter_cloudiness": 1.3
+	},
+	"fabricSeasonsConfig": {
+		"transition_days": 4.0,
+		"spring_cloudiness": 1.0,
+		"summer_cloudiness": 0.7,
+		"fall_cloudiness": 1.0,
+		"winter_cloudiness": 1.4
+	}
+}

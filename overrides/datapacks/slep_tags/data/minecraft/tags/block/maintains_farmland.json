@@ -1,0 +1,9 @@
+{
+    "values": [
+        "#minecraft:crops",
+        {
+            "id": "supplementaries:rope",
+            "required": false
+        }
+    ]
+}

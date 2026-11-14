@@ -42,7 +42,15 @@
             "create:copycat_step",
             "create:copycat_panel",
             "atmospheric:blood_orange",
-            "rusticdelight:syrup"
+            "rusticdelight:syrup",
+            "culturaldelights:agave",
+            "culturaldelights:corn_dough",
+            "autumnity:pancake",
+            "supplementaries:music_disc_heave_ho",
+            "caverns_and_chasms:lava_lamp",
+            "bits_n_bobs:test_rope",
+            "clutternomore:supplementaries/fine_wood_step",
+            "clayworks:pottery_table"
         ],
         "patterns": [
             "/wetland_whimsy:.*_brazier/",
@@ -53,7 +61,6 @@
             "/createdieselgenerators:.+_cement(_bucket)?/",
             "/caverns_and_chasms:golden.*bucket/",
             "/caverns_and_chasms:.*toolbox/",
-            "/(caverns_and_chasms|dye_the_world):.*glass_(trap)?door/",
             "/(woodworks|windswept):.+_(bookshelf|ladder|chest|beehive|closet)/",
             "/(woodworks|windswept|atmospheric|autumnity|caverns_and_chasms|environmental|upgrade_aquatic):.+_boards/",
             "/(atmospheric|abnormals_delight):.*(grimwood|rosewood|laurel|passion).*/",
@@ -76,12 +83,39 @@
             "/minecraft:.*sulfur.*/",
             "/minecraft:.+_lightning_rod/",
             "/caverns_and_chasms:.*copper_golem.*/",
-            "/caverns_and_chasms:.*lift_(button|pressure_plate)/"
+            "/caverns_and_chasms:.*lift_(button|pressure_plate)/",
+            "minecraft:.+_spear",
+            "/boatload:.+_furnace_(boat|raft)/",
+            "/boatload:.*(crimson|warped)_.+/",
+            "/electroenergetics:plant_oil(_bucket)?/",
+            "/rusticdelight:(cooked_)?calamari(|_slice|_crate|_roll)/",
+            "/minersdelight:(|glow_|baked_)(squid|tentacles)/",
+            "/caverns_and_chasms:lapis_(brick.*|pillar)/"
         ],
         "effects": [
             "upgrade_aquatic:restfulness",
             "upgrade_aquatic:insomnia"
         ]
+    },
+    {
+        "action": "remove",
+        "patterns": [
+            "/(culturaldelights:|supplementaries:culturaldelights/).*beanstalk.*/"
+        ],
+        "items": [
+            "culturaldelights:magic_beans",
+            "supplementaries:culturaldelights/way_sign_beanstalk"
+        ]
+    },
+    {
+        "action": "remove",
+        "item": "rusticdelight:cooking_oil",
+        "replace_with": "culturaldelights:cooking_oil"
+    },
+    {
+        "action": "remove",
+        "item": "farmersdelight:rope",
+        "replace_with": "supplementaries:rope"
     },
     {
         "action": "remove_enchantment",

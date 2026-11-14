@@ -3,6 +3,7 @@
     "biomes": "#minecraft:is_overworld",
     "features": [
         "atmospheric:passion_vines",
+        "culturaldelights:agave_placed",
         "environmental:flower_cartwheel",
         "upgrade_aquatic:driftwood_extra",
         "upgrade_aquatic:driftwood_ocean",
